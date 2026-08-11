@@ -1,0 +1,1 @@
+Sheet1 TeVelde Alfalfa,,,,,,,,,,, Field\# ,Acres,Crop,Ammendments,Cut Dates,,,,,,, 1,97.5,Alfalfa,,15-Mar,21-Apr,,,,,, 2,36.9,Alfalfa,,11-Apr,,,,,,, 10,84.8,Alfalfa,,11-Apr,,,,,,, 18,80.5,Alfalfa,,15-Mar,21-Apr,,,,,, Total,299.7,,,,,,,,,, Alfalfa,299.7,,,,,,,,,, Early Corn,231.6,,,,,,,,,, Wheat,726.5,,,,,,,,,, Total,1257.8,,,,,,,,,,
