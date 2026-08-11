@@ -1,0 +1,18 @@
+ranch,field_id,year,event_date,input,rate,units,notes,source
+correia,V15,2025,2025-05-05,UN-32 sidedress,200,units N,yr 1 post-alfalfa; plus 1 water-run ~40-50u; total ~240-250u; made 42.02 T,LOCKED_DECISIONS rev2 s3
+correia,V15,2025,,UN-32 water-run,45,units N,single water-run (40-50u range),LOCKED_DECISIONS rev2 s3
+correia,V15,2026,2026-04-21,UN-32 sidedress,150,units N,ran 55-65u lighter than 2025; made 38.90 T,LOCKED_DECISIONS rev2 s3
+correia,V15,2026,,UN-32 water-run,17.5,units N,2 passes x 17.5u (5 gal/ac); legend differs between workbooks - check year's own legend,LOCKED_DECISIONS rev2 s3
+correia,V15,2027,,UN-32 sidedress,200,units N,PLANNED: run the 2025 program - ~200u at sidedress plus a real water-run; spring-profile first,LOCKED_DECISIONS rev2 s3
+hamstra,C1,2026,2026-06-13,UN-32 sidedress,200,units N,full 200-unit sidedress on cleanest profile - no problem,Salt_Management_Protocol s1
+hamstra,16,2026,,UN-32 sidedress,75,units N,got 75 units despite VT zero on ~547 lb residual,Salt_Management_Protocol s1
+hamstra,36,2026,,CAN-17,,,applied in-season; plus manure water explains North half load if split favored it,Hamstra_Soil_Intelligence rev2
+tevelde,5,2026,,UN-32 sidedress,0,units N,zero-sidedress; yielded 36.6 @32% DM,TeVelde_Field_Intelligence rev3 s5
+tevelde,8,2026,,UN-32 sidedress,0,units N,zero-sidedress; yielded 36.4,TeVelde_Field_Intelligence rev3 s5
+tevelde,17,2026,,UN-32 sidedress,0,units N,zero-sidedress; yielded 34.2,TeVelde_Field_Intelligence rev3 s5
+tevelde,R5,2026,,UN-32 sidedress,0,units N,zero-sidedress; yielded 37.2,TeVelde_Field_Intelligence rev3 s5
+tevelde,10,2026,,UN-32 sidedress,150,units N,150-unit field; yielded 35.6,TeVelde_Field_Intelligence rev3 s5
+tevelde,20N,2026,,UN-32 sidedress,150,units N,150-unit field; yielded 38.1,TeVelde_Field_Intelligence rev3 s5
+hamstra,ALL_CORN,,,corral manure,20,T/ac,fixed constraint: every corn field pre-plant; not a lever - dairy must place it,Rulebook s9
+tevelde,ALL_CORN,,,corral manure,20,T/ac,20 T/ac corral manure on corn ground (dairy placement not re-routable),TeVelde_Agent_Rulebook s1
+correia,MANURE_QUEUE,2027,,corral manure,20,T/ac,priority: 1) V8 East 2) V15 3) V14; SKIP V8 West (fully loaded); A4 last and only at 10 T if farmed; never dilute below ~10 T/ac,LOCKED_DECISIONS rev2 s10

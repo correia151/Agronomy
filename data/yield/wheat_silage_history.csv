@@ -1,0 +1,19 @@
+ranch,field_id,year,crop,variety,yield_asreported_tac,moisture_asreported,notes
+tevelde,3N,2025,wheat_silage,Pacheco,26.3,,moisture basis not documented; field 12 post-reclamation
+tevelde,3S,2025,wheat_silage,Pacheco,26.3,,moisture basis not documented; field 12 post-reclamation
+tevelde,5,2025,wheat_silage,158,23.0,,moisture basis not documented; field 12 post-reclamation
+tevelde,6,2025,wheat_silage,158,24.5,,moisture basis not documented; field 12 post-reclamation
+tevelde,8,2025,wheat_silage,Pacheco,26.5,,moisture basis not documented; field 12 post-reclamation
+tevelde,12,2025,wheat_silage,Pacheco,30.1,,moisture basis not documented; field 12 post-reclamation
+tevelde,13,2025,wheat_silage,Pacheco,23.7,,moisture basis not documented; field 12 post-reclamation
+tevelde,14,2025,wheat_silage,Pacheco,26.3,,moisture basis not documented; field 12 post-reclamation
+tevelde,17,2025,wheat_silage,158,23.1,,moisture basis not documented; field 12 post-reclamation
+tevelde,18,2025,wheat_silage,Pacheco,22.9,,moisture basis not documented; field 12 post-reclamation
+tevelde,20N,2025,wheat_silage,Pacheco,19.7,,moisture basis not documented; field 12 post-reclamation
+hamstra,RANCH_AVG,2016,wheat_silage,,22.0,,"ranch average (per-field detail in source workbooks, not yet migrated); 2026 wheat never entered - backfill from scale tickets"
+hamstra,RANCH_AVG,2017,wheat_silage,,21.25,,"ranch average (per-field detail in source workbooks, not yet migrated); 2026 wheat never entered - backfill from scale tickets"
+hamstra,RANCH_AVG,2021,wheat_silage,,26.01,70,"ranch average (per-field detail in source workbooks, not yet migrated); 2026 wheat never entered - backfill from scale tickets"
+hamstra,RANCH_AVG,2022,wheat_silage,,29.53,70,"ranch average (per-field detail in source workbooks, not yet migrated); 2026 wheat never entered - backfill from scale tickets"
+hamstra,RANCH_AVG,2023,wheat_silage,,26.65,70,"ranch average (per-field detail in source workbooks, not yet migrated); 2026 wheat never entered - backfill from scale tickets"
+hamstra,RANCH_AVG,2024,wheat_silage,,23.32,68,"ranch average (per-field detail in source workbooks, not yet migrated); 2026 wheat never entered - backfill from scale tickets"
+hamstra,RANCH_AVG,2025,wheat_silage,,27.07,68,"ranch average (per-field detail in source workbooks, not yet migrated); 2026 wheat never entered - backfill from scale tickets"

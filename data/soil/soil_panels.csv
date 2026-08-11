@@ -1,0 +1,62 @@
+ranch,field_id,sample_date,depth,lab,sampler,ph,ece,om_pct,cec,ca_meq,mg_meq,k_meq,na_meq,ca_pct_cec,mg_pct_cec,k_pct_cec,na_pct_cec,na_pct_spe,ca_spe,so4_ppm,no3_n_lb,p_ppm,k_ppm,zn_ppm,free_lime,sar,notes,source_pdf
+hamstra,9,2026-07-30,0-18in,Valley Tech,,6.8,1.96,,,,,,,,,,2.6,18.5,,101,225,96.1,710,12.0,,,NO3-N 37.5 ppm; B 0.3; VT: none,07-30S163333
+hamstra,24,2026-07-30,0-18in,Valley Tech,,7.0,1.79,,,,,,,,,,1.8,14.3,,68,239,89.3,585,8.1,,,NO3-N 39.8 ppm; B 0.2; VT: 1 lb B,07-30S163333
+hamstra,25,2026-07-30,0-18in,Valley Tech,,7.3,0.82,,,,,,,,,,2.3,23.7,,35,39,73.5,388,7.5,,,NO3-N 6.5 ppm; B <0.1 LOW; S LOW; VT: 1.5 T gyp + 2 lb B,07-30S163333
+hamstra,29,2026-07-30,0-18in,Valley Tech,,7.5,2.88,,,,,,,,,,3.2,26.8,,,392,130,1010,8.0,1.41%,,NO3-N 65.3 ppm; B 0.2; calcareous; VT: 0.5 T gyp + 0.3 T S + 1 lb B,07-30S163335
+hamstra,36N,2026-07-30,0-18in,Valley Tech,,7.0,2.41,,,,,,,,,,3.5,20.4,,,301,70.2,515,2.5,none,,NO3-N 50.1 ppm; B 0.2; VT: 5 lb Zn + 1 lb B,07-30S163335
+hamstra,36S,2026-07-30,0-18in,Valley Tech,,7.2,1.85,,,,,,,,,,3.0,23.5,,,119,82.1,538,4.7,none,,NO3-N 19.9 ppm; B 0.3; VT: 0.5 T gyp,07-30S163335
+tevelde,3N,2025-07-17,0-18in,Valley Tech,,6.8,1.97,1.45,,,,,,73.4,,,4.4,32.1,43.9,,,,,,,,NO3-N 67.6 ppm; 1.5T gyp; SO4 low,07-17S126819
+tevelde,3S,2025-07-17,0-18in,Valley Tech,,7.4,3.03,1.72,,,,,,75.0,,,3.5,22.5,46.9,,,,,,,,NO3-N 109.0 ppm; elevated salts,07-17S126819
+tevelde,5N,2025-07-17,0-18in,Valley Tech,,7.0,2.03,2.22,,,,,,75.0,,,3.1,28.1,46.8,,,,,,,,NO3-N 53.6 ppm; 0.5T gyp,07-17S126819
+tevelde,5S,2025-07-17,0-18in,Valley Tech,,6.6,3.95,3.71,,,,,,74.5,,,3.3,19.1,57.2,,,,,,,,NO3-N 122.0 ppm; elevated salts,07-17S126819
+tevelde,8N,2025-07-17,0-18in,Valley Tech,,6.6,1.45,1.49,,,,,,69.8,,,3.3,32.9,36.5,,,,,,,,NO3-N 44.0 ppm; 1.5T gyp; SO4 low,07-17S126819
+tevelde,8S,2025-07-17,0-18in,Valley Tech,,7.4,1.48,1.33,,,,,,79.6,,,3.3,31.2,48.3,,,,,,,,NO3-N 31.4 ppm; 1.0T gyp,07-17S126819
+tevelde,12,2025-07-17,0-18in,Valley Tech,,7.4,1.23,1.55,,,,,,77.4,,,3.0,28.5,41.4,,,,,,,,NO3-N 17.5 ppm; 1.5T gyp,07-17S126819
+tevelde,14,2025-07-17,0-18in,Valley Tech,,6.0,5.76,4.34,,,,,,68.1,,,3.6,15.1,52.2,,,,,,,,"NO3-N 248.0 ppm; acidic, high salts, huge N-P-K; 1T lime",07-17S126819
+tevelde,17E,2025-07-17,0-18in,Valley Tech,,7.4,2.31,1.52,,,,,,73.9,,,5.1,33.8,40.4,,,,,,,,NO3-N 82.8 ppm; 1.0T gyp,07-17S126819
+tevelde,17W,2025-07-17,0-18in,Valley Tech,,7.4,2.31,1.54,,,,,,72.8,,,5.2,32.6,39.5,,,,,,,,NO3-N 75.7 ppm; 1.0T gyp,07-17S126819
+tevelde,18E,2025-07-17,0-18in,Valley Tech,,7.4,1.07,1.26,,,,,,87.9,,,3.8,44.6,49.7,,,,,,,,"NO3-N 27.9 ppm; LEAN: K 173, P 19.5, Zn low; 2T gyp; PRE-SLUDGE",07-17S126819
+tevelde,18W,2025-07-17,0-18in,Valley Tech,,7.4,0.94,1.03,,,,,,89.9,,,4.2,49.6,45.5,,,,,,,,"NO3-N 8.3 ppm; LEANEST: K 97, P 8.2; 1.5T gyp; PRE-SLUDGE",07-17S126819
+tevelde,20N,2025-07-17,0-18in,Valley Tech,,7.4,1.33,2.55,,,,,,78.3,,,3.4,37.0,45.6,,,,,,,,NO3-N 25.2 ppm; 2T gyp; 50 K2O,07-17S126819
+tevelde,7N,2025-07-31,0-18in,Valley Tech,,6.8,0.82,,,,,,,59.2,,,,51.3,12.4,,,,,,,,NO3-N 13.1 ppm; 2T gyp; K 971 very high; Na>Ca,07-31S128625
+tevelde,7S,2025-07-31,0-18in,Valley Tech,,5.9,0.62,,,,,,,60.4,,,,53.2,12.1,,,,,,,,NO3-N 8.1 ppm; 2T gyp + 1.5T lime (acidic); Na>Ca,07-31S128625
+tevelde,15,2025-07-31,0-18in,Valley Tech,,7.1,0.96,,,,,,,75.5,,,,44.3,30.5,,,,,,,,NO3-N 22.4 ppm; 2T gyp; Na>Ca,07-31S128625
+tevelde,16,2025-07-31,0-18in,Valley Tech,,5.9,1.95,,,,,,,66.6,,,,39.9,33.2,,,,,,,,NO3-N 48.7 ppm; 2T gyp + 1.5T lime (acidic); Na>Ca,07-31S128625
+tevelde,19E,2025-07-31,0-18in,Valley Tech,,7.6,2.55,,,,,,,71.0,,,,39.4,40.5,,,,,,,,NO3-N 25.3 ppm; 2T gyp,07-31S128625
+tevelde,19W,2025-07-31,0-18in,Valley Tech,,7.4,2.02,,,,,,,67.7,,,,39.2,36.3,,,,,,,,NO3-N 16.1 ppm; 2T gyp,07-31S128625
+tevelde,1N,2026-05-11,0-18in,Valley Tech,,7.5,1.24,,,,,,,78.6,,,,25.7,52.8,,,,,,,,NO3-N 42.3 ppm; VT gyp 1.0 T/ac,05-11S153673
+tevelde,1S,2026-05-11,0-18in,Valley Tech,,8.0,0.63,,,,,,,76.9,,,,47.4,34.8,,,,,,,,NO3-N 8.6 ppm; VT gyp 1.5 T/ac; +1.0 T sulfur,05-11S153673
+tevelde,2,2026-05-11,0-18in,Valley Tech,,7.7,0.83,,,,,,,82.6,,,,40.7,45.8,,,,,,,,NO3-N 23.3 ppm; VT gyp 1.5 T/ac; +0.5 T sulfur,05-11S153673
+tevelde,4N,2026-05-11,0-18in,Valley Tech,,8.0,0.8,,,,,,,73.6,,,,35.2,33.8,,,,,,,,NO3-N 15.7 ppm; VT gyp 1.5 T/ac; +1.0 T sulfur,05-11S153673
+tevelde,4S,2026-05-11,0-18in,Valley Tech,,7.8,0.63,,,,,,,70.6,,,,36.1,27.0,,,,,,,,NO3-N 12.5 ppm; VT gyp 1.5 T/ac; +0.5 T sulfur,05-11S153673
+tevelde,6N,2026-05-11,0-18in,Valley Tech,,7.4,1.75,,,,,,,66.5,,,,24.6,33.4,,,,,,,,NO3-N 70.5 ppm; VT gyp 1.0 T/ac,05-11S153673
+tevelde,6S,2026-05-11,0-18in,Valley Tech,,7.6,3.49,,,,,,,64.7,,,,25.4,35.7,,,,,,,,NO3-N 141.0 ppm; VT gyp 1.0 T/ac; +0.5 T sulfur,05-11S153673
+tevelde,7N,2026-05-11,0-18in,Valley Tech,,7.6,1.21,,,,,,,62.9,,,,39.5,20.8,,,,,,,,NO3-N 38.0 ppm; VT gyp 2.0 T/ac; +0.2 T sulfur,05-11S153673
+tevelde,7S,2026-05-11,0-18in,Valley Tech,,7.7,0.79,,,,,,,69.2,,,,38.2,25.3,,,,,,,,NO3-N 22.0 ppm; VT gyp 1.5 T/ac; +0.5 T sulfur,05-11S153673
+tevelde,9N,2026-05-11,0-18in,Valley Tech,,7.4,0.82,,,,,,,66.5,,,,42.5,28.5,,,,,,,,NO3-N 11.7 ppm; VT gyp 1.5 T/ac,05-11S153673
+tevelde,9S,2026-05-11,0-18in,Valley Tech,,7.5,1.21,,,,,,,75.4,,,,32.8,43.2,,,,,,,,NO3-N 26.5 ppm; VT gyp 1.0 T/ac,05-11S153673
+tevelde,11N,2026-05-11,0-18in,Valley Tech,,6.7,1.65,,,,,,,68.3,,,,27.9,41.1,,,,,,,,NO3-N 53.0 ppm; VT gyp 1.0 T/ac,05-11S153673
+tevelde,11S,2026-05-11,0-18in,Valley Tech,,7.4,1.61,,,,,,,67.6,,,,30.1,34.1,,,,,,,,NO3-N 47.5 ppm; VT gyp 1.0 T/ac,05-11S153673
+tevelde,15,2026-05-11,0-18in,Valley Tech,,7.3,1.39,,,,,,,70.2,,,,34.0,38.2,,,,,,,,NO3-N 32.1 ppm; VT gyp 1.0 T/ac,05-11S153673
+tevelde,16,2026-05-11,0-18in,Valley Tech,,7.1,2.15,,,,,,,72.4,,,,26.5,46.6,,,,,,,,NO3-N 57.4 ppm; VT gyp 0.5 T/ac,05-11S153673
+tevelde,19E,2026-05-11,0-18in,Valley Tech,,7.9,1.63,,,,,,,69.4,,,,35.3,39.7,,,,,,,,NO3-N 44.8 ppm; VT gyp 1.5 T/ac; +0.5 T sulfur,05-11S153673
+tevelde,19W,2026-05-11,0-18in,Valley Tech,,8.0,1.49,,,,,,,73.6,,,,39.2,40.6,,,,,,,,NO3-N 17.2 ppm; VT gyp 1.5 T/ac; +1.0 T sulfur,05-11S153673
+tevelde,20S-N,2026-05-11,0-18in,Valley Tech,,6.7,1.23,,,,,,,75.4,,,,36.5,46.8,,,,,,,,NO3-N 13.0 ppm; VT gyp 1.0 T/ac,05-11S153673
+tevelde,20S-S,2026-05-11,0-18in,Valley Tech,,7.4,1.29,,,,,,,76.2,,,,28.4,49.7,,,,,,,,NO3-N 33.4 ppm; VT gyp 1.0 T/ac,05-11S153673
+tevelde,R1,2025-07-25,0-18in,Valley Tech,,7.4,1.28,,,,,,,85.2,,,,40.1,52.6,,,,,,,,VT gyp 2.0 T/ac,07-25S127449
+tevelde,R2,2025-07-25,0-18in,Valley Tech,,6.6,1.98,,,,,,,82.7,,,,53.1,35.8,,,,,,,,VT gyp 1.0 T/ac,07-25S127449
+tevelde,R3,2025-07-25,0-18in,Valley Tech,,7.1,1.42,,,,,,,83.0,,,,45.1,46.2,,,,,,,,VT gyp 2.0 T/ac,07-25S127449
+tevelde,R4,2025-07-25,0-18in,Valley Tech,,7.0,2.53,,,,,,,76.7,,,,46.4,39.8,,,,,,,,VT gyp 1.5 T/ac,07-25S127449
+tevelde,R5-E,2025-07-25,0-18in,Valley Tech,,6.9,1.54,,,,,,,78.4,,,,36.1,47.6,,,,,,,,VT gyp 1.0 T/ac,07-25S127449
+tevelde,R5-W,2025-07-25,0-18in,Valley Tech,,6.6,1.35,,,,,,,71.0,,,,36.1,44.4,,,,,,,,VT gyp 1.0 T/ac,07-25S127449
+tevelde,R14-E,2025-07-25,0-18in,Valley Tech,,7.2,0.7,,,,,,,75.9,,,,29.9,50.1,,,,,,,,VT gyp 1.5 T/ac,07-31S128628
+tevelde,R14-W,2025-07-25,0-18in,Valley Tech,,7.0,1.29,,,,,,,73.3,,,,38.1,41.7,,,,,,,,VT gyp 2.0 T/ac,07-31S128628
+tevelde,R15-E,2025-07-25,0-18in,Valley Tech,,6.8,0.42,,,,,,,78.2,,,,16.8,71.2,,,,,,,,VT gyp 1.5 T/ac,07-31S128628
+tevelde,R15-W,2025-07-25,0-18in,Valley Tech,,7.4,1.06,,,,,,,76.4,,,,34.0,47.1,,,,,,,,VT gyp 2.0 T/ac,07-31S128628
+correia,V7,2026-07-30,0-18in,Valley Tech,,6.3,1.55,1.6,13.3,,,,,,,,4.2,38.2,,,173,53.1,253,4.4,<0.10%,2.5,sludge diagnosis field; soluble Ca:Na 1.47; SO4-S 60 adequate; ranch-high EC/SAR,07-30S163338
+correia,V15,2026-07-30,0-18in,Valley Tech,,,,1.46,20.9,,,,,,,,,39.8,,69,161,17.7,131,1.2,,,post-38.9T-crop trough; K 1.6 %CEC = alfalfa K bill; soluble Ca:Na 1.58,07-30S163338
+correia,A1,2026-07-20,0-18in,Valley Tech,,,,,,,,,,,,,4.4,,,,,,,1.2,high,2.4,ranch-high exchangeable Na; fallow-leach winter planned; 2.0 T gyp booked,07-20S161861
+correia,A4,2026-07-20,0-18in,Valley Tech,,,,,9.5,,,,,,,,,,,,,,370,,,,lowest CEC on ranch; Mg deficiency with K inverted (K 10% / Mg 7.3% of CEC); Na-dominant solution; HOLD all inputs,07-20S161861
+correia,V8E,2026-07-20,0-18in,Valley Tech,,,,0.92,,,,,,,,,,,,,,19.2,140,1.2,1% free lime,,lowest OM on ranch; manure priority 1; MAP starter band + Tiger 90 400-500 lb,07-20S161861
+correia,V8W,2026-07-20,0-18in,Valley Tech,,,,1.91,,,,,,,,,1.8,,,,,47.3,566,,,,fully loaded - skip manure; cleanest field (Na 1.8 %CEC),07-20S161861
+correia,V14,2026-07-20,0-18in,Valley Tech,,,,1.52,,,,,,,,,,,,,,14.3,147,1.2,,,worst P on ranch; K below floor; rehabilitation field; residual N ~83 lb,07-20S161861

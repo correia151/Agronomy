@@ -1,0 +1,15 @@
+ranch,field_id,stand_year,cutting_number,cutting_date,tons,acres,tac,moisture,notes
+hamstra,28,1,,2026-07 dry chop,84.37,38,2.22,,
+hamstra,C5,2,,2026-07 dry chop,135.58,69.4,1.95,,
+hamstra,15,1,,2026-07 dry chop,72.17,37,1.95,,
+hamstra,2,4,,2026-07 dry chop,43.58,25,1.74,,
+hamstra,20,3,,2026-07 dry chop,62.63,37,1.69,,
+hamstra,1,4,,2026-07 dry chop,21.91,13,1.69,,
+hamstra,4,4,,2026-07 dry chop,78.87,47,1.68,,
+hamstra,C-3,4,,2026-07 dry chop,58.56,35,1.67,,
+hamstra,26&27,2,,2026-07 dry chop,90.71,56,1.62,,read as 90.71 (not 90.91) so column sums to sheet total 915.27
+hamstra,5,1,,2026-07 dry chop,69.57,45,1.55,,
+hamstra,42,3,,2026-07 dry chop,96.96,64.2,1.51,,K at 303 ppm and falling; topdress SOP candidate
+hamstra,3,4,,2026-07 dry chop,55.23,38,1.45,,weakest 4th-yr stand - terminate first
+hamstra,10,2,,2026-07 dry chop,45.13,33,1.37,,chronic underperformer across crops
+hamstra,32,2,,2026-07 dry chop,,72,,,pending confirmation - no tons on this pickup; either not cut this round or picked up separately

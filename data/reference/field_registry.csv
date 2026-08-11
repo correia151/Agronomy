@@ -1,0 +1,75 @@
+ranch,field_id,aliases,acres,current_crop,rotation_status,notes
+hamstra,1,,13,alfalfa (4th yr),out of alfalfa fall 2026 -> 2027 corn,
+hamstra,2,,25,alfalfa (4th yr),out of alfalfa fall 2026 -> 2027 corn,
+hamstra,3,,38,alfalfa (4th yr),out of alfalfa fall 2026 -> 2027 corn,weakest 4th-yr stand (1.45 T/ac July cutting) - terminate first
+hamstra,4,,47,alfalfa (4th yr),out of alfalfa fall 2026 -> 2027 corn,
+hamstra,C-3,C3,35,alfalfa (4th yr),out of alfalfa fall 2026 -> 2027 corn,
+hamstra,5,,45,alfalfa (1st yr),,
+hamstra,9,,37,corn 2026,,first 40+ T field (40.66 @68); Na 30.2->18.5 %SPe via leaching; acidic pH 6.4-6.6 group
+hamstra,10,,33,alfalfa (2nd yr),,"chronic underperformer across crops - ground problem, not stand age"
+hamstra,11,,28,corn 2026,-> alfalfa fall 2026,valve-end lagoon-scald diagnostic cluster (11/14/17); no-chisel list since 2022; pre-plant sample still needed
+hamstra,14,,,,,valve-end cluster; 1608 history
+hamstra,15,,37,alfalfa (1st yr),,
+hamstra,16,,,,,547 lb residual N (June 2026) - highest on ranch; HIGH salt risk 2027
+hamstra,17,,,,,"valve-end cluster; sodium is the lever, not N"
+hamstra,20,,37,alfalfa (3rd yr),,
+hamstra,23,,,,,"EC 3.20 highest on ranch; free lime 2.07%; gypped 2022+2024, EC still climbed"
+hamstra,24,,~26,corn 2026,,24&25 farmed as one block; acreage split to be confirmed
+hamstra,25,,~25,corn 2026,,"ran dry 2026: ~39 lb N, S LOW, B LOW; 1.5 T gyp booked"
+hamstra,26&27,"26, 27",56,alfalfa (2nd yr),,
+hamstra,28,,38,alfalfa (1st yr),,best alfalfa ground (2.22 T/ac July); top post-alfalfa corn candidate when stand comes out
+hamstra,29,,38,corn 2026,-> alfalfa fall 2026,EC 2.88; calcareous (1.41% free lime); pre-plant fresh leach before alfalfa establishment
+hamstra,31N,31,,,,historic single-crop early field
+hamstra,32,,72,alfalfa (2nd yr),,field 32 July cutting tonnage pending confirmation
+hamstra,34,,,,,no lagoon access; corral manure only; mines K - dry-K candidate
+hamstra,35,,,,,no lagoon access; corral manure only; free lime on 35N/35S - sulfur candidate
+hamstra,36,,76,corn 2026,-> alfalfa fall 2026,N/S split field: North ~301 lb N vs South ~119; record which half was which in tillage trial
+hamstra,40E,40,,,,
+hamstra,42,,64.2,alfalfa (3rd yr),,K 303 and falling; topdress SOP (0-0-50); sample before corn return
+hamstra,C1,,,,,Hynes ground; best early field 2026 (Clark/Hynes C-fields kept as-is)
+hamstra,C5,,69.4,alfalfa (2nd yr),,
+hamstra,D1,,,,,Clark ground
+tevelde,3N,,36,corn 2026,alternating wheat<->corn annually,2026 variety 1718
+tevelde,3S,,17,corn 2026,alternating wheat<->corn annually,2026 variety 1718
+tevelde,5,,94,corn 2026,alternating wheat<->corn annually,2026 variety 2089
+tevelde,8,,78,corn 2026,alternating wheat<->corn annually,2026 variety 1718
+tevelde,10,,85,corn 2026,alternating wheat<->corn annually,2026 variety 1718
+tevelde,12,,12,corn 2026,alternating wheat<->corn annually,2026 variety 1718
+tevelde,13,,36,corn 2026,alternating wheat<->corn annually,2026 variety 1718
+tevelde,14,,37,corn 2026,alternating wheat<->corn annually,2026 variety 1718
+tevelde,17,,94,corn 2026,alternating wheat<->corn annually,2026 variety 1718
+tevelde,18,,80,corn 2026,alternating wheat<->corn annually,2026 variety 18986
+tevelde,20N,,80,corn 2026,alternating wheat<->corn annually,2026 variety 1718
+tevelde,7,"7N, 7S",,wheat 2026,-> 2027 corn,Ca%CEC 59-63 - structural problem; gypsum-first field (2T standing)
+tevelde,9,"9N, 9S",,wheat 2026,-> 2027 corn,'7&9 need 2T gyp'
+tevelde,1,,,wheat 2026,-> 2027 corn,
+tevelde,2,,,wheat 2026,-> 2027 corn,
+tevelde,4,,,wheat 2026,-> 2027 corn,
+tevelde,6,,,wheat 2026,-> 2027 corn,
+tevelde,11,,,wheat 2026,-> 2027 corn,
+tevelde,15,,,wheat 2026,-> 2027 corn,
+tevelde,16,,,wheat 2026,-> 2027 corn,
+tevelde,19,,,wheat 2026,-> 2027 corn,
+tevelde,20S,,,wheat 2026,-> 2027 corn,
+tevelde,R1,MF Rosa Fld 1,2,corn 2026,,Rosa ground renumbered 1:1; part of 'Dairy' billing line (R1-R4 = 47 ac)
+tevelde,R2,MF Rosa Fld 2,16,corn 2026,,part of 'Dairy' billing line
+tevelde,R3,MF Rosa Fld 3,3,corn 2026,,part of 'Dairy' billing line
+tevelde,R4,MF Rosa Fld 4,26,corn 2026,,part of 'Dairy' billing line
+tevelde,R5,MF Rosa Fld 5,82,corn 2026,,
+tevelde,R6,MF Rosa Fld 6,,wheat/idle 2026,,
+tevelde,R14,MF Rosa Fld 14,85,corn 2026,,2026 variety 2089
+tevelde,R15,MF Rosa Fld 15,,wheat/idle 2026,,best chemistry in R-set (R15-E: Na 16.8 %SPe)
+correia,A1,03-A1,38,corn 2026,,20 T manure; fallow-leach winter planned; free lime high - the one sulfur candidate
+correia,A4,04-A4,36,corn 2026,farming decision needed by ~January,"weakest ground: CEC 9.5, Mg deficient/K inverted; neither lagoon nor manure 2026; HOLD all inputs"
+correia,V4,,74,alfalfa (planted 2025),out no earlier than 2028 - LAST post-alfalfa corn field on plan,"protected field: fresh water only, no sludge ever; SAMPLE DURING 2027 ALFALFA YEAR (hard deadline)"
+correia,V5,"V5 East, V5 West",71,corn 2026,,lagoon field; cleanest chemistry; harvest timing is the 2027 lever (let run 4-5 more days)
+correia,V6,,,double-crop,,lagoon field; no 2026 chemistry - EC/SAR trend exposure
+correia,V7,06-V7,48,corn 2026,,lagoon field; pit-sludge diagnosis 2026 (30.78 T); winter leach REQUIRED; deep-rip candidate; NEVER Tiger 90 (pH 6.3)
+correia,V8,"07-V8 East, 07-V8 West",74,corn 2026,,20 T manure; East = lowest OM on ranch (manure priority 1); West fully loaded - skip
+correia,V9,,,double-crop,,no 2026 chemistry
+correia,V10,,,double-crop,,lagoon field; no 2026 chemistry
+correia,V11,,,double-crop,,lagoon field; no 2026 chemistry
+correia,V12,,,double-crop,,no 2026 chemistry
+correia,V13,,,double-crop,,no 2026 chemistry
+correia,V14,07-V14,44,corn 2026,,rehabilitation field (+5.3 T 2026); worst P on ranch; keep sulfur (sulfate low); 3-year build
+correia,V15,09-V15,36,corn 2026,yr 3 post-alfalfa in 2027 - target 36-38 T,best 40 T candidate (2-yr avg 40.46); K bill from alfalfa; run 2025 N budget (~200u sidedress); NEVER Tiger 90 (pH 6.6)

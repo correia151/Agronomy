@@ -1,0 +1,14 @@
+variety,crop,n_field_years,mean_yield_tac,basis,notes
+1718,corn_silage,5 dc / 4 sc,35.3 dc / 44.1 sc,as-recorded,best in record; 44.1T single-crop (100% >=36T); thin double-crop data; leads 2089 by ~1.5-1.8 T three straight years at TeVelde
+2089,corn_silage,32,33.4,as-recorded,genuinely good record but absent after 2020 at Hamstra; in current use at TeVelde
+1828,corn_silage,44,32.7,as-recorded,best-supported double-crop pick; struggles in hot dirt >98F (June planting condition); ceiling 44.6T
+1759,corn_silage,21,31.7,as-recorded,proven hot-dirt emerger - place on flagged salt fields
+1359,corn_silage,22,31.2,as-recorded,"on bad-emergence fields 2026 (16, 17)"
+1870,corn_silage,55,30.4,as-recorded,weakest - phase out; never on post-rotation ground; = Pioneer P1870AM (2020 trial #2 milk/acre but double plot)
+1608,corn_silage,,,,"permanently off heavy-manure ground (Eric's note, data-backed 2026)"
+17677,corn_silage,,,,Correia V5 2026: 37.26 @70%
+18986,corn_silage,1,45.1,@32% DM,"TeVelde field 18 2026 operation record - trial-expand, do not bet on n=1"
+Pacheco,wheat_silage,,~25.6,as-recorded,leads 158 by ~2 T/ac (TeVelde 2025)
+158,wheat_silage,,~23.5,as-recorded,
+P1572AM,corn_silage,1,36.05,35% DM,2020 Hamstra trial winner: top tonnage AND top milk/acre (45507 lb)
+P1548AM,corn_silage,1,30.15,35% DM,2020 trial: best digestibility 73.2%

@@ -1,0 +1,58 @@
+ranch,field_id,year,season,rate_tac,product,rationale,source,applied
+hamstra,10,2021,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,15,2021,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,26&27,2021,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,29,2021,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,35,2021,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,36,2021,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,42,2021,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,C2,2021,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,C3,2021,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,C5,2021,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,5,2022,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,8,2022,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,11,2022,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,23,2022,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,28,2022,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,32,2022,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,42,2022,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,C5,2022,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,10,2023,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,15,2023,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,16,2023,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,18,2023,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,26&27,2023,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,29,2023,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,34,2023,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,35,2023,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,36,2023,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,41,2023,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,C2,2023,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,6,2024,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,7,2024,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,8,2024,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,11,2024,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,23,2024,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,24&25,2024,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,33,2024,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,36,2024,fall,,gypsum,maintenance (ahead of wheat),Hamstra_Gypsum_x_Corn_Yield_Analysis,true
+hamstra,29,2026,fall,1.0,gypsum,alfalfa_floor; +0.3 T/ac elemental S for free lime,Hamstra_vs_Correia_2026_Comparison,false
+hamstra,36,2026,fall,1.0,gypsum,alfalfa_floor,Hamstra_vs_Correia_2026_Comparison,false
+hamstra,11,2026,fall,1.0,gypsum,alfalfa_floor (planning; pending post-harvest sample; schedule with leach set or not at all),Hamstra_vs_Correia_2026_Comparison,false
+hamstra,25,2026,fall,1.5,gypsum,ca_mg_na_balance; fails Ca>2x(Mg+Na); also ~510 lb SO4-S vs LOW sulfate,Hamstra_vs_Correia_2026_Comparison,false
+hamstra,9,2026,fall,0.0,gypsum,override skip: Na 30.2->18.5 %SPe,Hamstra_vs_Correia_2026_Comparison,false
+hamstra,24,2026,fall,0.0,gypsum,cleanest sample; every-other-year clock only,Hamstra_vs_Correia_2026_Comparison,false
+correia,A1,2026,fall,2.0,90% gypsum,"reclamation-adjacent: Na 4.4 %CEC ranch high, SAR 2.4; fallow-leach winter planned",Correia_2026_LOCKED_DECISIONS rev2 (531 T across 493 ac as booked),false
+correia,A4,2026,fall,2.0,90% gypsum,HOLD - no inputs until farming decision (~January); order sheet still carries 72 tons,Correia_2026_LOCKED_DECISIONS rev2 (531 T across 493 ac as booked),false
+correia,V5E,2026,fall,1.0,90% gypsum,infiltration + sulfate,Correia_2026_LOCKED_DECISIONS rev2 (531 T across 493 ac as booked),false
+correia,V5W,2026,fall,1.0,90% gypsum,infiltration + sulfate,Correia_2026_LOCKED_DECISIONS rev2 (531 T across 493 ac as booked),false
+correia,V7,2026,fall,1.0,90% gypsum,corrective (operator rate; lab 1.5) + mandatory winter leach; NO Tiger 90,Correia_2026_LOCKED_DECISIONS rev2 (531 T across 493 ac as booked),false
+correia,V8E,2026,fall,1.0,90% gypsum,sulfate source; + Tiger 90 400-500 lb/ac,Correia_2026_LOCKED_DECISIONS rev2 (531 T across 493 ac as booked),false
+correia,V8W,2026,fall,0.5,90% gypsum,"sulfate only (cleanest field, Na 1.8 %CEC)",Correia_2026_LOCKED_DECISIONS rev2 (531 T across 493 ac as booked),false
+correia,V14,2026,fall,1.0,90% gypsum,total salts + infiltration + sulfate; no free lime - skip lab's 0.2 T sulfur token,Correia_2026_LOCKED_DECISIONS rev2 (531 T across 493 ac as booked),false
+correia,V15,2026,fall,1.0,90% gypsum,infiltration insurance (operator rate; lab 2.0); first ton to cut if trimming - money goes to potash,Correia_2026_LOCKED_DECISIONS rev2 (531 T across 493 ac as booked),false
+tevelde,ALL_2026_CORN,2026,pre-plant,1.0,gypsum,standard annual maintenance (no rotational sodium reset),TeVelde_Field_Intelligence rev3,true
+tevelde,7,2026,pre-plant,2.0,gypsum,Ca%CEC 59-63 structural deficit - gypsum-first field,TeVelde_Field_Intelligence rev3,true
+tevelde,9,2026,pre-plant,2.0,gypsum,corn-sheet note '7&9 need 2T gyp',TeVelde_Field_Intelligence rev3,true
+hamstra,23,2022,,,gypsum,EC still climbed to 3.20 - evidence gypsum does not lower EC,Correia_Field_Intelligence_Rulebook 4.2,true
+hamstra,23,2024,,,gypsum,EC still climbed to 3.20 - evidence gypsum does not lower EC,Correia_Field_Intelligence_Rulebook 4.2,true
