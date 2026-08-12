@@ -1,1 +1,76 @@
-drive_path,title,mime_type,size_bytes,drive_id,view_url,action
+archive_path,title,binary_present,text_extract_present
+2024/2024 TeVelde Wheat.xlsx,text extract of 2024 TeVelde Wheat.xlsx,no,yes
+2024/2024 Tevelde Alfalfa.xlsx,text extract of 2024 Tevelde Alfalfa.xlsx,no,yes
+2024/2024 Tevelde Corn.xlsx,text extract of 2024 Tevelde Corn.xlsx,no,yes
+2024/Gyp order.xlsx,text extract of Gyp order.xlsx,no,yes
+2024/TeVelde.xlsx,text extract of TeVelde.xlsx,no,yes
+2024/Tevelde to do.xlsx,text extract of Tevelde to do.xlsx,no,yes
+2025/2025 Tevelde Corn chop dates.pdf,text extract of 2025 Tevelde Corn chop dates.pdf,no,yes
+2025/2025 Tevelde Corn.xlsx,text extract of 2025 Tevelde Corn.xlsx,no,yes
+2025/2025 Tevelde Gyp order.xlsx,text extract of 2025 Tevelde Gyp order.xlsx,no,yes
+2025/2025 Tevelde To Do.xlsx,text extract of 2025 Tevelde To Do.xlsx,no,yes
+2025/2025 Tevelde Wheat.xlsx,text extract of 2025 Tevelde Wheat.xlsx,no,yes
+2025/Tevelde water usage planner 2025.xlsx,text extract of Tevelde water usage planner 2025.xlsx,no,yes
+2026/2026 Tevelde Corn (EricOffice's conflicted copy 2026-02-27).xlsx,text extract of 2026 Tevelde Corn (EricOffice's conflicted copy 2026-02-27).xlsx,no,yes
+2026/2026 Tevelde Corn.xlsx,text extract of 2026 Tevelde Corn.xlsx,no,yes
+2026/2026 Tevelde Wheat.xlsx,text extract of 2026 Tevelde Wheat.xlsx,no,yes
+2026/2026 Tevelde crop planning.xlsx,text extract of 2026 Tevelde crop planning.xlsx,no,yes
+"Soil Samples/04-S115979 MF Rosa 6,14,15 Corn N.pdf","text extract of 04-S115979 MF Rosa 6,14,15 Corn N.pdf",no,yes
+Soil Samples/07-S128628 MF Rosa 14+15 soil comments.pdf,text extract of 07-S128628 MF Rosa 14+15 soil comments.pdf,no,yes
+Tevelde soil samples/02-S145811 Dixie 7 soil.pdf,text extract of 02-S145811 Dixie 7 soil.pdf,no,yes
+"Tevelde soil samples/04-S115822 Dixie 1,2,4,7,9,10,11,15,16,19,20 Corn N.pdf","text extract of 04-S115822 Dixie 1,2,4,7,9,10,11,15,16,19,20 Corn N.pdf",no,yes
+Tevelde soil samples/05-S83635 Dixie 12 Weak .pdf,text extract of 05-S83635 Dixie 12 Weak .pdf,no,yes
+"Tevelde soil samples/05-S86511 Dixie Creek 3N,3S,13 complete.pdf","text extract of 05-S86511 Dixie Creek 3N,3S,13 complete.pdf",no,yes
+"Tevelde soil samples/06-T87862 Dixie 5,6,11,17, 19 Cornplete.pdf","text extract of 06-T87862 Dixie 5,6,11,17, 19 Cornplete.pdf",no,yes
+"Tevelde soil samples/07-S126819 Dixie 3,5,8,12,14,17,18,20N soil.pdf","text extract of 07-S126819 Dixie 3,5,8,12,14,17,18,20N soil.pdf",no,yes
+Tevelde soil samples/07-S127449 MF Rosa 1-5 soil .pdf,text extract of 07-S127449 MF Rosa 1-5 soil .pdf,no,yes
+"Tevelde soil samples/07-S128625 Dixie 7,15,16,19 comments.pdf","text extract of 07-S128625 Dixie 7,15,16,19 comments.pdf",no,yes
+"Tevelde soil samples/08-S96307 Dixie 4,8,12,14 REVISED.pdf","text extract of 08-S96307 Dixie 4,8,12,14 REVISED.pdf",no,yes
+Tevelde soil samples/Lagoon water samples.pdf,text extract of Lagoon water samples.pdf,no,yes
+Tevelde soil samples/tevelde dixie creek soil samples 2026.pdf,text extract of tevelde dixie creek soil samples 2026.pdf,no,yes
+Tevelde/2024 Water usage Tevelde.xlsx,text extract of 2024 Water usage Tevelde.xlsx,no,yes
+Tevelde/2024 Water usage.xlsx,text extract of 2024 Water usage.xlsx,no,yes
+Tevelde/2024/2024 TeVelde Wheat.xlsx,text extract of 2024 TeVelde Wheat.xlsx,no,yes
+Tevelde/2024/2024 Tevelde Alfalfa.xlsx,text extract of 2024 Tevelde Alfalfa.xlsx,no,yes
+Tevelde/2024/2024 Tevelde Corn.xlsx,text extract of 2024 Tevelde Corn.xlsx,no,yes
+Tevelde/2024/Gyp order.xlsx,text extract of Gyp order.xlsx,no,yes
+Tevelde/2024/TeVelde.xlsx,text extract of TeVelde.xlsx,no,yes
+Tevelde/2024/Tevelde to do.xlsx,text extract of Tevelde to do.xlsx,no,yes
+Tevelde/2025/2025 Tevelde Corn chop dates.pdf,text extract of 2025 Tevelde Corn chop dates.pdf,no,yes
+Tevelde/2025/2025 Tevelde Corn.xlsx,text extract of 2025 Tevelde Corn.xlsx,no,yes
+Tevelde/2025/2025 Tevelde Gyp order.xlsx,text extract of 2025 Tevelde Gyp order.xlsx,no,yes
+Tevelde/2025/2025 Tevelde To Do.xlsx,text extract of 2025 Tevelde To Do.xlsx,no,yes
+Tevelde/2025/2025 Tevelde Wheat.xlsx,text extract of 2025 Tevelde Wheat.xlsx,no,yes
+Tevelde/2025/Tevelde water usage planner 2025.xlsx,text extract of Tevelde water usage planner 2025.xlsx,no,yes
+Tevelde/2026/2026 Gyp order.xlsx,text extract of 2026 Gyp order.xlsx,no,yes
+Tevelde/2026/2026 Tevelde Corn (EricOffice's conflicted copy 2026-02-27).xlsx,text extract of 2026 Tevelde Corn (EricOffice's conflicted copy 2026-02-27).xlsx,no,yes
+Tevelde/2026/2026 Tevelde Corn.xlsx,text extract of 2026 Tevelde Corn.xlsx,no,yes
+Tevelde/2026/2026 Tevelde Wheat.xlsx,text extract of 2026 Tevelde Wheat.xlsx,no,yes
+Tevelde/2026/2026 Tevelde crop planning.xlsx,text extract of 2026 Tevelde crop planning.xlsx,no,yes
+Tevelde/2026/Dixie Creek Projected Harvest Dates.pdf,text extract of Dixie Creek Projected Harvest Dates.pdf,no,yes
+Tevelde/2027/2027 Crop Planning.xlsx,text extract of 2027 Crop Planning.xlsx,no,yes
+Tevelde/2027/2027_Tevelde_Ground_Prep_Checklist_1.xlsx,text extract of 2027_Tevelde_Ground_Prep_Checklist_1.xlsx,no,yes
+Tevelde/Cropping estimate.xlsx,text extract of Cropping estimate.xlsx,no,yes
+Tevelde/Field Records and dates/Field Leveling Dates.xlsx,text extract of Field Leveling Dates.xlsx,no,yes
+Tevelde/Field Records and dates/Tevelde Field Grades.xlsx,text extract of Tevelde Field Grades.xlsx,no,yes
+Tevelde/TeVelde crop Acreage.xlsx,text extract of TeVelde crop Acreage.xlsx,no,yes
+Tevelde/Tevelde Blank irrigation sheet.xlsx,text extract of Tevelde Blank irrigation sheet.xlsx,no,yes
+Tevelde/Tevelde Field Map 2026 satellite.pdf,text extract of Tevelde Field Map 2026 satellite.pdf,no,yes
+Tevelde/Tevelde Field Map 2026.pdf,text extract of Tevelde Field Map 2026.pdf,no,yes
+Tevelde/Tevelde Map.pdf,text extract of Tevelde Map.pdf,no,yes
+Tevelde/Tevelde Map.pptx,text extract of Tevelde Map.pptx,no,yes
+Tevelde/Tevelde water usage planner.xlsx,text extract of Tevelde water usage planner.xlsx,no,yes
+Tevelde/Well Map.png,text extract of Well Map.png,no,yes
+Tevelde/soil samples/02-S145811 Dixie 7 soil.pdf,text extract of 02-S145811 Dixie 7 soil.pdf,no,yes
+"Tevelde/soil samples/04-S115822 Dixie 1,2,4,7,9,10,11,15,16,19,20 Corn N.pdf","text extract of 04-S115822 Dixie 1,2,4,7,9,10,11,15,16,19,20 Corn N.pdf",no,yes
+Tevelde/soil samples/05-S83635 Dixie 12 Weak .pdf,text extract of 05-S83635 Dixie 12 Weak .pdf,no,yes
+"Tevelde/soil samples/05-S86511 Dixie Creek 3N,3S,13 complete.pdf","text extract of 05-S86511 Dixie Creek 3N,3S,13 complete.pdf",no,yes
+"Tevelde/soil samples/06-T87862 Dixie 5,6,11,17, 19 Cornplete.pdf","text extract of 06-T87862 Dixie 5,6,11,17, 19 Cornplete.pdf",no,yes
+"Tevelde/soil samples/07-S126819 Dixie 3,5,8,12,14,17,18,20N soil.pdf","text extract of 07-S126819 Dixie 3,5,8,12,14,17,18,20N soil.pdf",no,yes
+Tevelde/soil samples/07-S127449 MF Rosa 1-5 soil .pdf,text extract of 07-S127449 MF Rosa 1-5 soil .pdf,no,yes
+"Tevelde/soil samples/07-S128625 Dixie 7,15,16,19 comments.pdf","text extract of 07-S128625 Dixie 7,15,16,19 comments.pdf",no,yes
+"Tevelde/soil samples/08-S96307 Dixie 4,8,12,14 REVISED.pdf","text extract of 08-S96307 Dixie 4,8,12,14 REVISED.pdf",no,yes
+Tevelde/soil samples/2026 Dixie Creek soil.pdf,text extract of 2026 Dixie Creek soil.pdf,no,yes
+Tevelde/soil samples/2026 dixie creek tevelde rosa soil.pdf,text extract of 2026 dixie creek tevelde rosa soil.pdf,no,yes
+Tevelde/soil samples/Lagoon water samples.pdf,text extract of Lagoon water samples.pdf,no,yes
+Tevelde/soil samples/tevelde dixie creek soil samples 2026.pdf,text extract of tevelde dixie creek soil samples 2026.pdf,no,yes

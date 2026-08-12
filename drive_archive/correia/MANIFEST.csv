@@ -1,1 +1,47 @@
-drive_path,title,mime_type,size_bytes,drive_id,view_url,action
+archive_path,title,binary_present,text_extract_present
+2020/2020 Correia Corn.pdf,text extract of 2020 Correia Corn.pdf,no,yes
+2020/2020 Correia Corn.xlsx,text extract of 2020 Correia Corn.xlsx,no,yes
+2020/2020 Correia Wheat.pdf,2020 Correia Wheat.pdf,yes,yes
+2020/2020 Correia Wheat.xlsx,text extract of 2020 Correia Wheat.xlsx,no,yes
+2020/crop report.xlsx,text extract of crop report.xlsx,no,yes
+2021/2021 Alfalfa.xlsx,text extract of 2021 Alfalfa.xlsx,no,yes
+2021/2021 Correia Corn.pdf,text extract of 2021 Correia Corn.pdf,no,yes
+2021/2021 Correia Corn.xlsx,text extract of 2021 Correia Corn.xlsx,no,yes
+2021/2021 Correia Walnuts.xlsx,text extract of 2021 Correia Walnuts.xlsx,no,yes
+2021/2021 Correia wheat.pdf,2021 Correia wheat.pdf,yes,yes
+2021/2021 Correia wheat.xlsx,text extract of 2021 Correia wheat.xlsx,no,yes
+2021/2021 Crop acreages.xlsx,text extract of 2021 Crop acreages.xlsx,no,yes
+2021/2021 meter read dates.xlsx,text extract of 2021 meter read dates.xlsx,no,yes
+2022/2022 Alfalfa.xlsx,text extract of 2022 Alfalfa.xlsx,no,yes
+2022/2022 Correia Almonds.xlsx,text extract of 2022 Correia Almonds.xlsx,no,yes
+2022/2022 Correia Corn.xlsx,text extract of 2022 Correia Corn.xlsx,no,yes
+2022/2022 Correia Walnuts.xlsx,text extract of 2022 Correia Walnuts.xlsx,no,yes
+2022/2022 Correia wheat.xlsx,text extract of 2022 Correia wheat.xlsx,no,yes
+2023/2023 Correia Almonds.xlsx,text extract of 2023 Correia Almonds.xlsx,no,yes
+2023/2023 Correia Corn.xlsx,text extract of 2023 Correia Corn.xlsx,no,yes
+2023/2023 Correia Walnuts.xlsx,text extract of 2023 Correia Walnuts.xlsx,no,yes
+2023/2023 Correia wheat.xlsx,text extract of 2023 Correia wheat.xlsx,no,yes
+2023/Correia 2023 water usage.xlsx,text extract of Correia 2023 water usage.xlsx,no,yes
+2024/2024 Correia Corn.xlsx,text extract of 2024 Correia Corn.xlsx,no,yes
+2024/2024 Correia Water usage Mid Kaweah.xlsx,text extract of 2024 Correia Water usage Mid Kaweah.xlsx,no,yes
+2024/2024 Correia wheat.xlsx,text extract of 2024 Correia wheat.xlsx,no,yes
+2024/2024 gyp order.xlsx,text extract of 2024 gyp order.xlsx,no,yes
+2024/2024 water Usage greater kaweah Correia.xlsx,text extract of 2024 water Usage greater kaweah Correia.xlsx,no,yes
+2024/2024 water usage.xlsx,text extract of 2024 water usage.xlsx,no,yes
+2024/Correia to do (CorreiaHome's conflicted copy 2024-10-02).xlsx,text extract of Correia to do (CorreiaHome's conflicted copy 2024-10-02).xlsx,no,yes
+2024/Correia to do.xlsx,text extract of Correia to do.xlsx,no,yes
+2025/2025 Correia Corn.xlsx,text extract of 2025 Correia Corn.xlsx,no,yes
+2025/2025 Correia Estimated water usage.xlsx,text extract of 2025 Correia Estimated water usage.xlsx,no,yes
+2025/2025 Correia Fertilizer Corn.xlsx,text extract of 2025 Correia Fertilizer Corn.xlsx,no,yes
+2025/2025 Correia Gyp order.xlsx,text extract of 2025 Correia Gyp order.xlsx,no,yes
+2025/2025 Correia To Do.xlsx,text extract of 2025 Correia To Do.xlsx,no,yes
+2025/2025 Correia Water usage Mid Kaweah.xlsx,text extract of 2025 Correia Water usage Mid Kaweah.xlsx,no,yes
+2025/2025 Correia Wheat.xlsx,text extract of 2025 Correia Wheat.xlsx,no,yes
+2026/2026 Almond Notes.docx,text extract of 2026 Almond Notes.docx,no,yes
+2026/2026 Almonds.xlsx,text extract of 2026 Almonds.xlsx,no,yes
+2026/2026 Correia Corn.xlsx,text extract of 2026 Correia Corn.xlsx,no,yes
+2026/2026 Correia Cropping.xlsx,text extract of 2026 Correia Cropping.xlsx,no,yes
+2026/2026 Correia Wheat.xlsx,text extract of 2026 Correia Wheat.xlsx,no,yes
+2026/2026 Walnut Notes.docx,text extract of 2026 Walnut Notes.docx,no,yes
+2026/2026 Walnuts.xlsx,text extract of 2026 Walnuts.xlsx,no,yes
+2026/2026 water usage greater kaweah.xlsx,text extract of 2026 water usage greater kaweah.xlsx,no,yes

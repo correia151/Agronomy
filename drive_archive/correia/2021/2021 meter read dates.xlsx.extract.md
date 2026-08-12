@@ -1,0 +1,6 @@
+# 2021 meter read dates.xlsx (extract)
+2021 Meter read dates. Description, Cycle, monthly read dates (Jan-Dec).
+SHOP (55): 1/8,2/8,3/10,4/8,5/7,6/8,7/8,8/6,9/7,10/7,11/5,12/8
+IRRIGATION PUMP (56): 1/11,2/9,3/11,4/9,5/10,6/9,7/9,8/9,9/8,10/8,11/8,12/9
+C4,V8,V5 MANURE/50HP WELL,C4 100HP,C1 40HP,V5-150HP,RETURN PUMP (62): 1/20,2/18,3/19,4/19,5/18,6/17,7/19,8/17,9/16,10/18,11/17,12/17
+A3,A4,A1,DITCH PUMP (59): 1/14,2/12,3/16,4/14,5/13,6/14,7/14,8/12,9/13,10/13,11/12,12/14

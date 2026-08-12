@@ -1,1 +1,2 @@
-drive_path,title,mime_type,size_bytes,drive_id,view_url,action
+archive_path,title,binary_present,text_extract_present
+Gyp field dates.xlsx,text extract of Gyp field dates.xlsx,no,yes
