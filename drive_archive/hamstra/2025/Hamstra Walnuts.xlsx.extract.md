@@ -1,0 +1,1 @@
+Sheet1 Hamstra Walnuts,,,,,,Notes ,,,,,, 120-140lbs nitrogen per year ,,,,,,add Zinc chelate to pump in

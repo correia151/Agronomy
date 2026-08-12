@@ -1,0 +1,1 @@
+Sheet1 Hamstra Almonds,,,,,,,,,Notes 5/14/25,start water 30 hr set,,,,,,,,120-140T Nitrogen per year 5/15/25,Pump in almonds 20 units UN-32 1gal k30 2.5lbs boris acid,,,,,,,,

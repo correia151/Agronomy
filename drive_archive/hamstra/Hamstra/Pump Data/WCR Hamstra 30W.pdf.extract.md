@@ -1,0 +1,289 @@
+ORIGINAL
+
+File with DWR
+
+Page 2 of 2
+
+Owner's Well No. Hamstra Dairy
+
+Date Work Began 11/1/2007
+
+Local Permit Agency Tulare.
+
+Permit No. 07-0499
+
+ORIENTATION ()
+
+DEPTH FROM SUREACE
+
+STATE OF CALIFORNIA
+
+DWR USE ONLY
+
+DO NOT FILL IN.
+
+WELL COMPLETION REPORT 195/24-17TION NO
+
+Refer to Instruction Pamphlet
+
+EO56154
+
+STATE WELL STATION
+
+Ended 11/1/2007
+
+Permit Date 10/9/2007
+
+GEOLOGIC LOG
+
+VERTICAL HORIZONTAL ANGLE (SPECIFY)
+
+DRILLING
+
+METHOD REVERSE
+
+DESCRIPTION
+
+FLUID WATER/POL
+
+FL 10 Ft.
+
+Describe material, grain, size, color, etc.
+
+390
+
+400 CLAY
+
+LATITUDE
+
+LONGITUDE
+
+APNITRS/OTHER
+
+WELL OWNER
+
+WELL LOCATION
+
+Address 40' E. of Rd.74 Align 75 S. of Ave.260 City Tulare, CA CA 93274
+
+County TULARE
+
+APN Book 148
+
+Township 19 S Latitude.
+
+DEG. MIN.
+
+Page 030 Range24 E
+
+Parcel 02 Section 19
+
+SEC.
+
+DFG. MIN.
+
+LOCATION SKETCH
+
+NORTH
+
+SEC.
+
+TOTAL DEPTH OF BORING 400 (Feet) TOTAL DEPTH OF COMPLETED WELL 400
+
+(Feet)
+
+CASING (S)
+
+SOUTH
+
+Matruber Describe Distance of Well from Rods, Buildings, Fences, Rivers, etc, and attach a map. Use additional paper if necessary. PLEASE BE ACCURATE & COMPLETE.
+
+ACTIVITY()
+
+NEW WELL
+
+MODIFICATION/REPAIR --Despon
+
+Other (Specify)
+
+DESTROY (Describe Proceduras and Materials Under "GEOLOGIC LOG
+
+PLANNED USES () WATER SUPPLY
+
+Domestic Public
+
+Ingation--- Industrial
+
+MONITORING
+
+TEST WELL
+
+CATHODIC PROTECTION.
+
+HEAT EXCHANGE
+
+DIRECT PUSH
+
+INJECTION
+
+VAPOR EXTRACTION
+
+SPARGING
+
+REMEDIATION
+
+OTHER (SPECIFY)
+
+WATER LEVEL & YIELD OF COMPLETED WELL
+
+DEPTH TO FIRST WATER
+
+DEPTH OF STATIC
+
+WATER LEVEL
+
+ESTIMATED YIELD
+
+(FL) BELOW SURFACE
+
+(Ft) & DATE MEASURED
+
+(GPM) & TEST TYPE
+
+TEST LENGTH (Hrs.) TOTAL DRAWDOWN
+
+May not be representative of a well's long-term yield
+
+(FL)
+
+DEPTH FROM SURFACE
+
+BORE- HOLE DIA.
+
+TYPE ()
+
+DEPTH FROM SURFACE
+
+ANNULAR MATERIAL
+
+TYPE
+
+(Inches)
+
+MATERIAL/
+
+GRADE
+
+FL. to FL
+
+INTERNAL DIAMETER
+
+(inches)
+
+GAUGE OR WALL THICKNESS
+
+SLOT SIZE
+
+CE- BEN-
+
+IF ANY (inches)
+
+MENT TONITE FILL
+
+FL
+
+10 FL
+
+FILTER PACK (TYPE/SIZE)
+
+)
+
+0
+
+200
+
+28
+
+STEEL
+
+200
+
+400
+
+28
+
+STEEL
+
+16
+
+16
+
+1/4
+
+1/4
+
+0
+
+50
+
+✓
+
+070
+
+50
+
+400
+
+GRAVEL
+
+ATTACHMENTS (2)
+
+Geologic Leg
+
+Well Construction Ciagram
+
+Geophysical Log(s)
+
+\-SolWater Chemical Analyals
+
+Other
+
+ATTACH ADDITIONAL INFORMATION, IF IT EXISTS.
+
+DWR 185 REV. 11-07
+
+CERTIFICATION STATEMENT
+
+the undersigned, oortify that this report is complete and accurate to the best of my knowledge and bett NAME Myers Well Drilling
+
+(PERSON, FIRM, OR CORPORATION) (TYPED OR PRINTED)
+
+12522 9th ave
+
+ADDRESS
+
+Signed
+
+Makny
+
+WELL DRILLERIAUTHORIZED REPRESENTATIVE
+
+Hanford
+
+CITY
+
+CA
+
+STATE
+
+11/06/07 DATE SIGNED
+
+865822
+
+93230
+
+ZIP
+
+C-57 LICENSE NUMBER
+
+IF ADDITIONAL SPACE IS NEEDED, USE NEXT CONSECUTIVELY NUMBERED FORM

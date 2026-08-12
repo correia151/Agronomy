@@ -1,0 +1,25 @@
+Hamstra 2024 Corn
+
+Field \# Acres Variety Pre Irrigation Plant Date Fertilizer Date Cut Date Yield 5 45 1359 20T manure 5/17/24 6/4/24 6/21 150 units 6/25/24 7/11/24 7/23/24 8/4/24 8/15/24 8/26/24 - 9/17/24 29.61 6 56 1759 20T manure 5/22/24 6/8/24 6/26 100 units 6/29/24 7/13/24 7/28/24 8/9/24 8/20/24 8/31/24 - 9/24/24 30.66 Bad emergence 7 38 1870 20T manure 6/1/24 6/15/24 7/5 100 units 7/10/24 7/25/24 8/6/24 8/17/24 8/28/24 9/9/24 10/5/24 26.79 Bad emergence 8 38 1759 20T manure 6/7/24 6/23/24 7/8 100 units 7/15/24 7/30/24 8/11/24 8/23/24 9/4/24 9/16/24 10/9/24 27.4 10 33 1359 5/9/24 5/23/24 6/14 100 units 6/15/24 7/1/24 7/11/24 7/21/24 8/2/24 8/14/24 - 9/5/24 24.55 11 32 1759 20T manure 6/9/24 6/24/24 7/9 100 units 7/16/24 7/30/24 8/12/24 8/24/24 9/4/24 9/16/24 10/9/24 23.46 14 36 1759 20T manure 5/23/24 6/11/24 7/1 100 units 7/3/24 7/16/24 7/27/24 8/8/24 8/20/24 9/2/24 9/30/24 31.7 15 37 1759 20T manure 5/31/24 6/14/24 7/5 100 units 7/7/24 7/21/24 8/2/24 8/13/24 8/24/24 9/5/24 10/1/24 30.71 16 40 1359 20T manure 5/13/24 5/28/24 6/17 100 units 6/22/24 7/8/24 7/18/24 7/29/24 8/10/24 8/22/24 - 9/6/24 25.17 18 21 1828 20T manure 5/31/24 6/14/24 7/4 100 units 7/7/24 7/23/24 8/4/24 8/16/24 8/27/24 9/7/24 10/1/24 28.54 Bad emergence 23 33 1828 5/9/24 5/23/24 6/14 100 units 6/15/24 6/28/24 7/10/24 7/22/23 8/3/24 8/15/24 - 9/5/24 29.49 24&25 51 1759 20T manure 5/25/24 6/11/24 7/2 200 units 7/3/24 7/22/24 8/3/24 8/13/24 8/25/24 9/6/24 9/30/24 35.9 26&27 56 1759 20T manure 5/31/24 6/16/24 7/6 100 units 7/8/24 7/24/24 8/5/24 8/17/24 8/28/24 9/9/24 10/5/24 23.19 28 38 1870 20T manure 5/24/24 6/12/24 7/3 150 units 7/6/24 7/21/24 8/1/24 8/13/24 8/25/24 9/6/24 10/1/24 32.34 29 38 1759 20T manure 5/15/24 6/7/24 6/26 100 units 6/28/24 7/8/24 7/23/24 8/5/24 8/17/24 8/29/24 - 9/24/24 26.96 Bad emergence 31N 30 1718 1/24/24\* 2/5/24 4/11/24 100 units 5/14 5/17/24 6/1/24 6/13/24 6/24/24 7/7/24 7/17/24 - 7/31/24 45.4
+
+32 72 1359 20T manure 5/13/24 5/29/24 6/17 150 units 6/20/24 7/4/24 7/16/24 7/27/24 8/8/24 8/20/24 - 9/10/24 30.07 33 72 1759 20T manure 5/18/24 6/5/24 6/22 150 units 6/25/24 7/10/24 7/21/24 8/1/24 8/11/24 8/24/24 - 9/17/24 31.53 34 50 1828 20T manure 5/9/24 5/22/24 6/13 200 units 6/14/24 6/28/24 7/10/24 7/21/24 7/31/24 8/10/24 - 9/6/24 30.75 35 100 1828 20T manure 5/14/24 5/30/24 6/19 200 units 6/20/24 7/4/24 7/16/24 7/26/24 8/6/24 8/18/24 - 9/10/24 30.43 36 76 1359 20T manure 5/21/24 6/7/24 6/25 150 units 6/29/24 7/13/24 7/24/24 8/5/24 8/19/24 8/31/24 - 9/19/24 26.4 41 75 1359 20T manure 5/17/24 6/6/24 6/24 100 units 6/27/24 7/11/24 7/21/24 8/2/24 8/14/24 8/26/24 - 9/19/24 31.77 C2 73.0 1759 20T manure 5/27/24 6/10/24 6/27 150 units 7/1/24 7/16/24 7/27/24 8/8/24 8/20/24 8/31/24 - 9/23/24 30.35 C4 33.0 1759 20T manure 5/27/24 6/13/24 7/3 150 units 7/6/24 7/20/24 7/31/24 8/11/24 8/22/24 9/3/24 10/1/24 31.42 C5 69.4 1718 1/24/24\* 2/8/24 4/10/24 100 units 5/13 5/15/24 6/3/24 6/15/24 6/22/24 7/4/24 7/16/24 - 7/31/24 35.36 D1 16.0 1759 20T manure 6/6/24 6/17/24 7/8 150 units 7/9/24 7/23/24 8/2/24 8/15/24 8/26/24 9/7/24 10/1/24 30.18 40E 3 1759 6/11/24 6/24/24 7/9 150 units 7/10/24 7/20/24 7/30/24 8/13/24 8/19/24 8/31/24 9/11/24 10/9/24 Total: 1258.4
+
+AVG 30 1st yr all yields adjusted to 68% Variety Acreage Population Price/Bag \# Bags Price Corn: 1258.4 2089 0 28k 0 $0.00 Milo: 0 1828 208 32k 83 $0.00 Alfalfa: 652.2 1870 76 32k 30 $0.00 Total 1910.6 1359 341 32k 136 $0.00 1759 534 32k 214 $0.00 1718 99.4 32k 40 $0.00 Croplan 5900 32k 0 $0.00 dekalb 6766 34k 0 $0.00 dekalb 6869 0 $0.00 Total 1258.4 $0.00
+
+early fields • \*Manure water added 1 1/4 ac-in per irrigation
+
+• Soluable Ca
+
+• All yields adjusted to 68% moisture
+
+• Fresh water irrigations 5 ac-in per irrigation 1870 not looking good Do not plant a week before any 105+ degree weather 1359 looks good Change irrigations to 10 days with hot weather and ditch water do not fertilize less than 100 units no more 1870 Sudan 3 ac @75 lbs/ac 1759 good variety out of stock 7064 Resenti go to early 2024 Clark small fields w 1759 6869 short early season 4-5 day after planting is most critical 6766 Mendoca dbl crop 1359 field 5 burnt coming up
+
+29 1759 burnt coming up planted 2nd half clark with 1359 6/21 6 burnt coming up field 14 3rd set of 8 row 21-28 1759 18 irrigated manure water only and got burnt coming up 1828 does not do well in hot dirt 98 degree+ 1359 scaulding on 36 1/2" rain 8/20 Manure water 21 30 9 Alfalfa 1828 went down field 34 1759 looks better than 1366 1608 did not look very good w heavy manure preirrigated field w manure did bad Field 34 looked good 1366 planted in field 11 did not look good 1359 looks better than 1828 1718 for early double crop 1608 big ear lower ear placement could replace1870 Little down corn on 1608 1870 big ear
+
+Irrigations
+
+single crop
+
+• \*\*UN-32 40 units
+
+• Dry manure spread @ 7.5 Tons/ac

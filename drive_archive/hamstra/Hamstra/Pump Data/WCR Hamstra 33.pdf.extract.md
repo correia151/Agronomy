@@ -1,0 +1,409 @@
+ORIGINAL
+
+File with DWR
+
+Page 1 of 2
+
+Owner's Well No. Hamstra Dairy
+
+Date Work Began 7/19/2007
+
+Local Permit Agency Tulare
+
+Permit No. 07-0291
+
+ORIENTATION()
+
+DEPTH FROM SURFACE
+
+STATE OF CALIFORNIA
+
+WELL COMPLETION REPORT
+
+Refer to Instruction Pamphlet
+
+No.56128
+
+Ended 7/19/2007
+
+Permit Date 6/21/2007
+
+GEOLOGIC LOG
+
+VERTICAL HORIZONTAL
+
+DRILLING METHOD REVERSE
+
+DESCRIPTION
+
+ANGLE (SPECIFY) FLUID WATER/POL
+
+Describe material, grain, size, color, etc.
+
+FL 10 FI.
+
+0:
+
+3: TOP SOIL
+
+3\)
+
+19: SAND
+
+19:
+
+32 CLAY
+
+32
+
+41 SAND/GRAVEL
+
+411
+
+45 CLAY
+
+45
+
+67 SAND
+
+67
+
+76 CLAY
+
+76
+
+81 SAND
+
+81
+
+95 CLAY
+
+95
+
+102 SAND
+
+102
+
+107 CLAY
+
+107
+
+115 SAND
+
+115
+
+130 CLAY
+
+130
+
+141 SAND
+
+141
+
+174 CLAY
+
+174
+
+187: SAND
+
+187
+
+202 CLAY
+
+202
+
+212 SAND
+
+212
+
+227 CLAY
+
+227
+
+238 SAND
+
+238
+
+245 CLAY
+
+245
+
+260 SAND
+
+260
+
+277 BLUE CLAY
+
+277
+
+288 SAND
+
+288
+
+292 BLACK CLAY
+
+292
+
+305: SAND
+
+305
+
+331 BRN.CLAY
+
+331
+
+342 SAND
+
+342
+
+371 CLAY
+
+371
+
+381 SAND
+
+DWR USE ONLY
+
+DO NOT FILL IN.
+
+1246±30
+
+STATE WELL NO/ STATION NO.
+
+LATITUDE
+
+APN/TRS/OTHER
+
+Address 1/2 Mile E. of Rd.'68 65 N of Cartmill City Tulare, CA CA 93274
+
+County TULARE
+
+APN Book 148 Township 19 S
+
+Latitude
+
+DEG.
+
+Page 040
+
+Parcel 28
+
+Range24 E
+
+Section 30
+
+MIN.
+
+SEC.
+
+LOCATION SKETCH
+
+NORTH
+
+LONGITUDE
+
+SEC.
+
+MIN. DEG.
+
+ACTIVITY (2)
+
+NEW WELL
+
+MODIFICATION/REPAIR
+
+Deepen
+
+Other (Specify)
+
+DESTROY (Describe Procedures and Materials Under "OROLOGIC LOG
+
+PLANNED USES (\<) WATER SUPPLY
+
+Domestic Public Ingen ---
+
+Industrial
+
+MONITORING
+
+TEST WELL
+
+CATHODIC PROTECTION
+
+HEAT EXCHANGE
+
+DIRECT PUSH,
+
+INJECTION
+
+VAPOR EXTRACTION
+
+SPARGING REMEDIATION
+
+SOUTH
+
+lustrate or Describe Dinance of Well from Roads, Butidings, Fences, Rivera, etc, and attach a map. Use additional paper it necessary. PLEASE BE ACCURATE & COMPLETE.
+
+OTHER (SPECIFY)
+
+WATER LEVEL & YIELD OF COMPLETED WELL
+
+DEPTH TO FIRST WATER
+
+DEPTH OF STATIC
+
+WATER LEVEL
+
+ESTIMATED YIELD.
+
+TEST LENGTH
+
+(FL) BELOW SURFACE
+
+(Ft) & DATE MEASURED
+
+(OPM) & TEST TYPE
+
+TOTAL DEPTH OF BORING 440
+
+TOTAL DEPTH OF COMPLETED WELL 440
+
+(Feet)
+
+(Feet)
+
+(Hrs) TOTAL DRAWDOWN
+
+May not be representative of a well's long-term vield
+
+(FL)
+
+DEPTH FROM SURFACE
+
+CASING (S)
+
+BORE- HOLE
+
+TYPE (2)
+
+DEPTH FROM SURFACE
+
+ANNULAR MATERIAL
+
+TYPE
+
+DIA
+
+(Inches)
+
+MATERIAL/
+
+GRADE
+
+FL.
+
+to Ft
+
+INTERNAL DIAMETER
+
+(Inches)
+
+GAUGE OR WALL THICKNESS
+
+SLOT SIZE
+
+IF ANY
+
+(Inches)
+
+Ft
+
+to FL
+
+CE- BEN- MENT TONITE FILL 333
+
+FILTER PACK (TYPE/SIZE)
+
+0
+
+200
+
+200
+
+28
+
+440
+
+28
+
+STEEL STEEL
+
+16
+
+16
+
+1/4
+
+1/4
+
+0
+
+50
+
+070
+
+50
+
+440
+
+GRAVEL
+
+ATTACHMENTS (2)
+
+Geologic Log
+
+We Construction Diagram
+
+Geophysical Log(s)
+
+CERTIFICATION STATEMENT
+
+1, the undersigned, certify that this report is complete and accurate to the best of my knowledge and belef NAME Myers Well Drilling
+
+(PERSON, FIRM, OR CORPORATION) (TYPED OR PRINTED)
+
+12522 9th ave
+
+Hanford
+
+CITY
+
+CA
+
+STATE
+
+07/24/07 DATE SIGNED
+
+865822
+
+93230
+
+ZIP
+
+C-57 LICENSE NUMBER\]
+
+SolWater Chemical Analysis Other
+
+ATTACH ADDITIONAL INFORMATION, IF IT EXISTS.
+
+DWR 188 REV. 11-97
+
+ADDRESS
+
+Signed
+
+MtMy
+
+WELL DRILLER/AUTHORIZED REPRESENTATIVE
+
+IF ADDITIONAL SPACE IS NEEDED, USE NEXT CONSECUTIVELY NUMBERED FORM

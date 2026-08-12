@@ -1,0 +1,39 @@
+BARTHELEMY
+
+RANCH
+
+282.8
+
+AVE 260
+
+디
+
+72.9300 CORN
+
+14
+
+62 73ac
+
+CORN
+
+C5
+
+69.42ac
+
+ALFALFA
+
+03
+
+ི
+
+34.60c
+
+CORN
+
+DAIRY
+
+C4
+
+32.800 CORN
+
+RD 80

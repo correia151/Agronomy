@@ -1,0 +1,440 @@
+ORIGINAL
+
+File with DWR Page 1 of 2
+
+Owner's Well No. Hamstra, Date Work Began 11/9/2015
+
+Local Permit Agency Tulare
+
+Permit No. 15-1966
+
+ORIENTATION (\~)
+
+DEPTH FROM SURFACE
+
+Ft. to F1.
+
+\-
+
+STATE OF CALIFORNIA
+
+WELL COMPLETION REPORT
+
+Refer to lustraction Piphter
+
+No. e0259334
+
+DWR USE ONLY
+
+DO NOT FILL IN
+
+STATE WELL NO/STATION NO
+
+Ended 11/9/2015
+
+Permit Date 10/12/2015
+
+(SPECIFY)
+
+GEOLOGIC LOG
+
+✓ VERTICAL HORIZONTAL METHOD REVERSE
+
+DRILLING
+
+\-ANGLE
+
+DESCRIPTION
+
+FLUID WATER/POL
+
+Describe material, grain size, color, etc.
+
+0
+
+6 TOP SOIL
+
+6
+
+44 SAND
+
+44
+
+53 CLAY
+
+53
+
+58 SANDY CLAY
+
+58
+
+69 SAND & CLAY
+
+69
+
+79 SAND
+
+79
+
+88 SANDY CLAY
+
+88
+
+97 COURSE SAND
+
+97
+
+119 CLAY
+
+119
+
+129 SAND
+
+129
+
+139 CLAY
+
+139
+
+143 SAND
+
+143
+
+170 SANDY CLAY
+
+170
+
+177 SAND
+
+177
+
+190 CLAY
+
+190
+
+209 SAND
+
+209
+
+212 CLAY
+
+212
+
+217 SAND
+
+217
+
+227 CLAY
+
+227
+
+241 SAND
+
+241
+
+249 CLAY
+
+247
+
+251 SAND
+
+251
+
+254 CLAY
+
+LATITUDE
+
+LONGITUDE
+
+APN/RS/OTHER
+
+WELL OWNER
+
+WELL LOCATION
+
+Address 720' W of Rd 80 & 40′ S of Ave 262 Align
+
+City Tulare CA 93274
+
+APN Book 148
+
+County TULARE
+
+Page 030
+
+Parcel 007
+
+Township 19 S
+
+Range 24 E
+
+Section 20
+
+Latitude
+
+MIN
+
+DEG
+
+LOCATION SKETCH-
+
+SEC
+
+NORTH
+
+254 277 COURSE SAND
+
+277
+
+290 CLAY
+
+290 293 SAND
+
+293 296 SANDY CLAY
+
+SOUTH
+
+Mor Dark Thy of filings Fences Rivers, etc. and attach a map Use additional paper if necessary. PLEASE BE ACCURATE & COMPLETE.
+
+DEG.
+
+MIN
+
+SEC.
+
+ACTIVITY () ✓ NEW WELL
+
+MODIFICATION/REPAIR
+
+Deepen
+
+Other (Specify)
+
+DESTROY (Desente Procedures and Matengis Under "GEOLOGIC LOG
+
+PLANNED USES()
+
+WATER SUPPLY
+
+Domestic migation
+
+Public Industrial
+
+MONITORING
+
+TEST WELL
+
+CATHODIC PROTECTION
+
+HEAT EXCHANGE DIRECT PUSH
+
+INJECTION
+
+VAPOR EXTRACTION
+
+SPARGING
+
+REMEDIATION
+
+OTHER SPECIFY)
+
+WATER LEVEL & YIELD OF COMPLETED WELL
+
+296
+
+310 SAND/GRAVEL
+
+310
+
+336 CLAY
+
+336
+
+348 COURSE SAND
+
+TOTAL DEPTH OF BORING 600
+
+TOTAL DEPTH OF COMPLETED WELL 600
+
+(Feet)
+
+DEPTH TO FIRST WATER
+
+DEPTH OF STATIC
+
+WATER LEVEL
+
+ESTIMATED YIELD
+
+TEST LENGTH
+
+(FL) BELOW SURFACE
+
+(FL) & DATE MEASURED
+
+(GPM) & TEST TYPE
+
+(Feet)
+
+(1) TOTAL DRAWDOWN
+
+May not be representative of a well's long-term veld,
+
+(FL)
+
+DEPTH FROM SURFACE
+
+CASING (S)
+
+BORE
+
+HOLE TYPE (
+
+DEPTH FROM SURFACE
+
+ANNULAR MATERIAL
+
+TYPE
+
+DIA (Inches)
+
+MATERIAL/
+
+GRADE
+
+FL to FL
+
+INTERNAL DIAMETER
+
+(Inches)
+
+GAUGE OR WALL THICKNESS
+
+SLOT SIZE IF ANY (inches)
+
+CE- BEN-
+
+MENT TONITE FILL
+
+Ft.
+
+FL
+
+FILTER PAGK (TYPC/SIZE)
+
+(x) (\~) (\~)
+
+0
+
+280
+
+280
+
+600
+
+28 ✓
+
+28
+
+STEEL STEEL
+
+16
+
+16
+
+1/4
+
+0
+
+50 ✓
+
+1/4 090LOUV
+
+50
+
+600
+
+GRAVEL
+
+ATTACHMENTS 11
+
+Geologic Log
+
+Well Construction Diagram
+
+Ceophysical Log(s)
+
+Sce/Water Chemical Analysis
+
+Other
+
+ATTACH ADDITIONAL INFORMATION, IF IT EXISTS
+
+DWR 188 REV 11-97
+
+CERTIFICATION STATEMENT
+
+1, the undersigned, certify that the report is complete and accurate to the nest of my knowledge and beler NAME Myers Well Drilling Inc.
+
+(PERSON. FIRM, OR CORPORATION) (TYPED OR PRINED)
+
+11745 2nd Ave
+
+ADDRESS
+
+Signed
+
+Mariticale
+
+WELL DRILLERIAUTHORIZED REPRESENTATIVE
+
+Hanford
+
+CITY
+
+CA
+
+STATE
+
+12/02/15
+
+DATE SIGNED
+
+IF ADDITIONAL SPACE IS NEEDED, USE NEXT CONSECUTIVELY NUMBERED FORM
+
+93230
+
+ZIP
+
+865822 C-57 LICENSE NUMBER
+
+[Note: file continues with Page 2 of 2 and a repeated Page 2, all for the same well (Hamstra, Rd 80 & Ave 262, APN 148-030-007, total depth 600 ft). Geologic log continues:]
+
+348 368 CLAY
+368 371 COURSE SAND
+371 375 CLAY
+375 389 SAND
+389 406 CLAY
+406 412 SANDY CLAY
+412 420 CLAY
+420 428 SAND
+428 450 CLAY
+450 458 SAND
+458 474 CLAY
+474 484 SAND
+484 488 CLAY
+488 503 SAND/GRAVEL
+503 510 CLAY
+510 515 SAND/GRAVEL
+515 523 CLAY
+523 526 SAND
+526 530 CLAY
+530 539 SAND/GRAVEL
+539 549 CLAY
+549 574 SAND
+574 581 CLAY
+581 586 SAND
+586 594 CLAY
+594 600 BLUE CLAY
+
+Certification: Myers Well Drilling Inc., 11745 2nd Ave, Hanford CA 93230, C-57 License 865822, Date Signed 12/02/15. Casing: 0-280 and 280-600, 28" bore, STEEL 16", 1/4 gauge, slot 090LOUV, gravel filter pack 50-600.

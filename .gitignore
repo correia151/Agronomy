@@ -4,3 +4,4 @@ __pycache__/
 ~$*.xlsx
 *.tmp
 .venv/
+drive_archive/*/.extract_results_*.csv
