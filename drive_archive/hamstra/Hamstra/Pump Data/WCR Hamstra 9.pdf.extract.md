@@ -1,0 +1,365 @@
+ORIGINAL
+
+File with DWR
+
+Page 2 of 2
+
+Owner's Well No. Hamsrta Dairy 2 Date Work Began 4/24/2014
+
+Local Permit Agency Tulare
+
+Permit No. 14-0442
+
+ORIENTATION ()
+
+DEPTH FROM SURFACE
+
+STATE OF CALIFORNIA
+
+WELL COMPLETION REPORT
+
+Refer to Instruction Pamphlet
+
+No-e0195039
+
+Ended4/24/2014
+
+Permit Date 4/16/2014
+
+GEOLOGIC LOG
+
+VERTICAL HORIZONTAL
+
+DRILLING METHOD REVERSE
+
+DWR USE ONLY
+
+\-DO NOT FILL IN
+
+STATE WELL NO/ STATION NO.
+
+LATITUDE
+
+LONGITUDE
+
+APNITRS/OTHER
+
+WEET CUNED
+
+ANGLE (SPECIFY)
+
+FLUID WATER/POL
+
+DESCRIPTION
+
+FL. to FL.
+
+Describe material, grain, size, color, etc.
+
+310
+
+319 SAND
+
+Address 3800' N of Ave
+
+WELL LOCATION 260 & 40 W of Rd 80
+
+319
+
+358 CLAY
+
+358
+
+City
+
+Tulare CA 93274
+
+365 SANDY CLAY
+
+365
+
+390 SAND/GRAVEL
+
+390
+
+397 CLAY
+
+397
+
+414 SAND/GRAVEL
+
+Latitude
+
+414
+
+428 CLAY
+
+MIN.
+
+428
+
+441 SANDY CLAY
+
+County TULARE
+
+APN Book 148
+
+Township 19 S
+
+DEG.
+
+LOCATION SKETCH
+
+NORTH
+
+Page 030
+
+Range24 E
+
+Parcel 001 Section 19
+
+SEC
+
+441
+
+457 ROCKS
+
+457
+
+471 CLAY
+
+471
+
+476 SAND
+
+476
+
+485 SANDY CLAY
+
+485
+
+493: SAND
+
+493
+
+523 CLAY
+
+523 525 SANDY CLAY
+
+525
+
+530 SAND
+
+530
+
+566 SANDY CLAY
+
+566
+
+585
+
+585 COURSE SAND 606 CLAY
+
+SOUTH
+
+strator Describe mes of Well from Roads, Buildings, Fences, Rivers, etc, and attach a map. Use additional paper if necessary. PLEASE BE ACCURATE & COMPLETE
+
+DEG. MIN.
+
+SEC.
+
+ACTIVITY (2)
+
+NEW WELL MODIFICATIONREPAIR
+
+Deepen
+
+Other (Specify)
+
+DESTROY (Describe Procedures and Materials Under GEOLOGIC LOG
+
+PLANNED USES (4)
+
+WATER SUPPLY
+
+Demesic Public Irrigation
+
+Industrial
+
+MONITORING
+
+TEST WELL
+
+CATHODIC PROTECTION
+
+HEAT EXCHANGE-
+
+DIRECT PUSH
+
+INJECTION
+
+VAPOR EXTRACTION
+
+SPARGING
+
+REMEDIATION
+
+OTHER (SPECIFY)
+
+WATER LEVEL & YIELD OF COMPLETED WELL
+
+TOTAL DEPTH OF BORING 606
+
+TOTAL DEPTH OF COMPLETED WELL 600
+
+(Feet)
+
+(Feet)
+
+DEPTH TO FIRST WATER
+
+(FL) BELOW SURFACE
+
+DEPTH OF STATIC
+
+WATER LEVEL
+
+(Ft) & DATE MEASURED
+
+ESTIMATED YIELD
+
+TEST LENGTH.
+
+(GPM) & TEST TYPE..
+
+(Hrs) TOTAL DRAWDOWN..
+
+May not be representative of a well's long-term yield
+
+(FL)
+
+DEPTH FROM SURFACE
+
+CASING (S)
+
+ANNULAR MATERIAL,
+
+BORE
+
+HOLE TYPE (
+
+DEPTH FROM SURFACE
+
+TYPE
+
+DIA.
+
+(inches)
+
+MATERIAL/
+
+GRADE
+
+FL. to FL
+
+INTERNAL DIAMETER (Inches)
+
+GAUGE OR WALL THICKNESS
+
+SLOT SIZE IF ANY (inches)
+
+CE- BEN- MENT TONITE FILL
+
+Ft. to FL
+
+FILTER PACK (TYPE/SIZE)
+
+0
+
+280
+
+28
+
+280
+
+600
+
+28
+
+✓
+
+STEEL STEEL
+
+16
+
+16
+
+1/4
+
+1/4
+
+0
+
+50\.
+
+✓
+
+.090RM
+
+50
+
+606
+
+GRAVEL
+
+ATTACHMENTS (2)
+
+Geologic Log
+
+Well Construction Diagram
+
+Geophysical Log(s)
+
+Sol/Water Chemical Analysis -Other
+
+ATTACH ADDITIONAL INFORMATION, IF IT EXISTS.
+
+DWR 188 REV. 11-97
+
+CERTIFICATION STATEMENT
+
+1, the undersigned, certily that this report is completo and accurate to the beat of my knowledge and belief.
+
+NAME Myers Well Drilling Inc.
+
+(PERSON, FIRM, OR CORPORATION) (TYPED OR PRINTED)
+
+11745 2nd Ave.
+
+ADDRESS
+
+Signed
+
+Marilyn Galinds"
+
+WELL DRILLER/AUTHORIZED REPRESENTATIVE
+
+Hanford
+
+CA
+
+CITY
+
+STATE
+
+04/29/14 DATE SIGNED
+
+IF ADDITIONAL SPACE IS NEEDED, USE NEXT CONSECUTIVELY NUMBERED FORM
+
+93230
+
+865822
+
+ZIP
+
+C-57 LICENSE NUMBER

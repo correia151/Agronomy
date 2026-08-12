@@ -1,0 +1,422 @@
+ORIGINAL
+
+File with DWR Page 1 of 2
+
+Owner's Well No. Hamstra 2 Date Work Began 11/10/2015
+
+Local Permit Agency Tulare
+
+Permit No. 15-2069
+
+ORIENTATION (Y)
+
+STATE OF CALIFORNIA WELL COMPLETION
+
+STATE WELL NO. STATION NO
+
+DWR USE ONLY
+
+DO NOT FILL IN
+
+REPORT
+
+Refer to Instruction Pamphler
+
+No. e0259335
+
+Ended 11/11/2015
+
+LONGITUDE
+
+Permit Date 9/15/2015
+
+GEOLOGIC LOG
+
+VERTICAL HORIZONTAL
+
+DRILLING
+
+METHOD REVERSE
+
+ANGLE
+
+(SPECIFY)
+
+FLUID WATER/POL
+
+DESCRIPTION
+
+Describe material, grain size, color, etc.
+
+DEPTH FROM SURFACE
+
+Ft. to FL
+
+0
+
+6 TOP SOIL
+
+6
+
+34 SAND
+
+34
+
+42 SANDY CLAY
+
+42
+
+50 SAND/GRAVEL
+
+50
+
+54 CLAY
+
+54
+
+58 GRAVEL
+
+58
+
+70 CLAY
+
+70
+
+90 SAND
+
+90
+
+95 CLAY
+
+95
+
+103 SAND
+
+103
+
+135 SANDY CLAY
+
+135
+
+144 SAND
+
+144
+
+152 SANDY CLAY
+
+152
+
+175 SAND
+
+175 189 CLAY
+
+189
+
+199 SAND
+
+199 225 CLAY
+
+225
+
+235 SAND
+
+235
+
+266 CLAY
+
+266 270 SAND
+
+270
+
+274 CLAY
+
+274
+
+279 SAND
+
+279
+
+295 CLAY
+
+295
+
+300 SAND
+
+300
+
+306 CLAY
+
+306
+
+310 SANDY CLAY
+
+310 315 CLAY
+
+LATITUDE
+
+APNITRS/OTHER
+
+WELL OWNER
+
+WELL LOC
+
+Address 400' N of Ave 248 8 2700 WoRd 80
+
+City Tulare CA 93274
+
+County TULARE
+
+APN Book 148
+
+Township 19 S
+
+Latitude
+
+Page 040 Range24 E
+
+Parcel 028 Section 30
+
+DEG
+
+MIN
+
+SEC
+
+LOCATION SKETCH
+
+NORTH
+
+SOUTH
+
+esten she Dance of Belfas Fences. Rivers, etc. and attact & stap te adenoma paper if
+
+ecessary. PLEASE BE ACCURATE & COMPLETE.
+
+DEG MIN
+
+SEC.
+
+ACTIVITY (✔) ✓ NEW WELL
+
+MODIFICATION/REPAIR
+
+Deepen
+
+Other (Specify)
+
+DESTROY Describe Procedures and Matenats
+
+Under "GEOLOGIC LOG)
+
+PLANNED USES() WATER SUPPLY
+
+Domestic mgation
+
+Public Industrial
+
+MONITORING
+
+TEST WELL
+
+CATHODIC PROTECTION
+
+HEAT EXCHANGE
+
+DIRECT PUSH
+
+INJECTION
+
+VAPOR EXTRACTION
+
+SPARGING
+
+REMEDIATION
+
+OTHER (SPECIFY)
+
+WATER LEVEL & YIELD OF COMPLETED WELL
+
+315 318 SAND
+
+318 323 CLAY
+
+323
+
+329 SAND
+
+TOTAL DEPTH OF BORING,600 (Feet)
+
+TOTAL DEPTH OF COMPLETED WELL. 600 (Feet)
+
+DEPTH TO FIRST WATER
+
+DEPTH OF STATIC
+
+WATER LEVEL
+
+ESTIMATED YIELD
+
+TEST LENGTH
+
+(F) BELOW SURFACE
+
+(FL) & DATE MEASURED
+
+(GPM) & TEST TYPE
+
+(HIS) TOTAL DRAWDOWN
+
+May not be representative of a well's long-term vield.
+
+DEPTH FROM SURFACE
+
+CASING (S)
+
+BORE-
+
+HOLE TYPE (
+
+DEPTH FROM SURFACE
+
+ANNULAR MATERIAL
+
+TYPE
+
+DIA (inches)
+
+MATERIAL/ GRADE
+
+Fr to Ft.
+
+INTERNAL DIAMETER
+
+(inches)
+
+GAUGE OR WALL THICKNESS
+
+SLOT SIZE
+
+CE- BEN-
+
+IF ANY (inches)
+
+MENT TONITE FILL
+
+Ft
+
+to F
+
+FILTER PACK (TYPE/SIZE)
+
+() () ()
+
+0
+
+320
+
+28 ✓
+
+320
+
+600
+
+28
+
+STEEL STEEL
+
+16
+
+16
+
+1/4
+
+0
+
+50
+
+✓
+
+1/4 090LOUV
+
+50
+
+600
+
+GRAVEL
+
+ATTACHMENTS()
+
+Geologic Log
+
+Wel Construction Diagram
+
+Geophysical Logis)
+
+Soil/Water Chemical Analysis
+
+Other
+
+ATTACH ADDITIONAL INFORMATION, IF IT EXISTS.
+
+DWR 188 REV. 11-97
+
+CERTIFICATION STATEMENT
+
+the undersigned certify that this report is complete and accurate to the best of my knowledge and beer
+
+NAME Myers Well Drilling Inc.
+
+(PERSON FIRM OR CORPORATION TYPED OR PRINTED)
+
+11745 2nd Ave
+
+ADDRESS
+
+Signe
+
+Marta Chlu
+
+"WELL DRILLERIAUTHORIZED REPRESENTATIVE
+
+Hanford
+
+CITY
+
+CA
+
+STATE
+
+12/02/15 DATE SIGNED
+
+93230
+
+ZIP
+
+865822 C-57 LICENSE NUMBER
+
+[Page 2 of 2 — same well Hamstra 2, geologic log continues:]
+
+329 334 CLAY
+334 344 SAND/GRAVEL
+344 366 CLAY
+366 372 SAND
+372 377 CLAY
+377 386 SAND
+386 405 GRAVEL/RIVER ROCK
+405 434 CLAY
+434 442 SAND
+442 446 CLAY
+445 456 SAND
+456 473 CLAY
+473 488 SAND
+488 512 CLAY
+512 517 SAND
+517 530 CLAY
+530 538 COURSE SAND
+538 551 CLAY
+551 567 COURSE SAND
+567 574 BLUE CLAY
+574 580 SAND/GRAVEL
+580 600 CLAY
+
+Well Location: 400' N of Ave 248 & 2700 W of Rd 80, Tulare CA 93274, APN Book 148 Page 040 Parcel 028, Township 19 S Range 24 E Section 30. Total depth 600 ft. Casing 0-320 and 320-600, 28" bore, STEEL 16", 1/4 gauge, slot .090LOUV, gravel filter pack 50-600. Certification: Myers Well Drilling Inc., 11745 2nd Ave, Hanford CA 93230, C-57 License 865822, Date Signed 12/02/15.

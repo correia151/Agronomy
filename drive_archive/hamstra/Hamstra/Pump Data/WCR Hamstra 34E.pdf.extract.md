@@ -1,0 +1,415 @@
+ORIGINAL
+
+File with DWR
+
+Page 1 of 1
+
+Owner's Well No. CORREIA STEVE Date Work Began 6/10/2004
+
+Local Permit Agency TULARE
+
+Permit No. 7550
+
+ORIENTATION()
+
+STATE OF CALIFORNIA
+
+WELL COMPLETION
+
+Refer to Instruction Pamphlet
+
+No. 011467
+
+Ended6/11/2004
+
+Permit Date 6/1/2004
+
+VERTICAL HORIZONTAL
+
+\-ANGLE
+
+DRILLING
+
+..(SPECIFY)
+
+FLUID NATURAL
+
+GEOLOGIC LOG
+
+METHOD REVERSE
+
+DESCRIPTION
+
+Describe material, grain size, color, etc.
+
+REPORT
+
+DWR USE ONLY -DO NOT FILL IN
+
+2052405-18
+
+STATE WELL NO/ STATION NO.
+
+100
+
+T
+
+LATITUDE
+
+LONGITUDE
+
+APN/TRS/OTHER
+
+WELL OWNER
+
+WEL
+
+Address 2140' N OF AVE 215 & 1/4 MW OF RD 76
+
+DEPTH FROM
+
+SURFACE
+
+FL
+
+to PL
+
+0
+
+4 TOP SOIL
+
+4
+
+10 CLAY
+
+10
+
+35 SAND & GRAVEL
+
+35
+
+42 CLAY
+
+42
+
+50 SAND
+
+50
+
+62 CLAY
+
+62
+
+73 SAND
+
+73
+
+79 CLAY
+
+79
+
+84 SAND
+
+84
+
+91 CLAY
+
+91
+
+98 SAND & GRAVEL
+
+98
+
+110 CLAY
+
+110
+
+124 SAND & GRAVEL
+
+124
+
+137 CLAY
+
+137
+
+145 SAND & GRAVEL
+
+145
+
+161 CLAY
+
+161
+
+171 SAND
+
+171 173 CLAY
+
+173
+
+179 SAND
+
+179 181 CLAY
+
+181
+
+188 SAND
+
+188
+
+202 CLAY
+
+202
+
+205 SAND
+
+205 209 CLAY
+
+209 211 SAND
+
+211 228 CLAY
+
+228
+
+233 SAND
+
+233
+
+249 CLAY
+
+City
+
+TULARE CA
+
+County TULARE
+
+APN Book
+
+Township 20 S
+
+Latitude.
+
+Page Range24 E
+
+Parcel 160-110-08
+
+Section 18
+
+DEG. MIN
+
+SEC.
+
+DEG. MIN
+
+LOCATION SKETCH-
+
+NORTH
+
+SEC.
+
+ACTIVITY()
+
+NEW WELL
+
+MODIFICATIONREPAIR -Deepan
+
+Other (Specify)
+
+DESTROY (Describe Procedures and Materials Linder "GEOLOGIC LOG
+
+PLANNED USES ()
+
+WATER SUPPLY
+
+Domestic Public Inigation- Industrial
+
+MONITORING
+
+TEST WELL
+
+CATHODIC PROTECTION
+
+HEAT EXCHANGE...
+
+DIRECT PUSH
+
+INJECTION
+
+VAPOR EXTRACTION
+
+SPARGING
+
+REMEDIATION
+
+SOUTH
+
+or Describe Distence of Well from Roaks, Buildings, Fences, Rivers, etc. and attach a map. Use additional paper if necessary, PLEASE BE ACCURATE & COMPLETE.
+
+OTHER (SPECIFY)
+
+WATER LEVEL & YIELD OF COMPLETED WELL
+
+DEPTH TO FIRST WATER
+
+249 253 SAND W/ CLAY STREAKS
+
+253
+
+263 CLAY
+
+TOTAL DEPTH OF BORING 263
+
+TOTAL DEPTH OF COMPLETED WELL 263
+
+(Feet)
+
+DEPTH OF STATIC
+
+WATER LEVEL
+
+ESTIMATED YIELD.
+
+TEST LENGTH
+
+(FL) BELOW SURFACE
+
+(FL) & DATE MEASURED
+
+(GPM) & TEST TYPE.
+
+(Feet)
+
+(Hr) TOTAL DRAWDOWN
+
+May not be representative of a well's long-term vield.
+
+(Ft)
+
+DEPTH
+
+CASING (S)
+
+ANNULAR MATERIAL
+
+FROM SURFACE
+
+BORE- HOLE DIA. (Inches)
+
+TYPE (
+
+DEPTH FROM SURFACE
+
+TYPE
+
+MATERIAL/ GRADE
+
+FL
+
+to FL
+
+INTERNAL DIAMETER (Inches)
+
+GAUGE OR WALL THICKNESS
+
+SLOT SIZE OF ANY (Inches)
+
+CE-
+
+BEN-
+
+MENT TONITE FILL
+
+FL.
+
+10 FL
+
+FILTER PACK (TYPE/SIZE)
+
+0
+
+142
+
+142
+
+263
+
+30✓
+
+30
+
+✓
+
+STEEL DBL. SAW
+
+16
+
+16
+
+1/4
+
+1/4
+
+0
+
+20
+
+✓
+
+✓
+
+125
+
+32 ROW
+
+20
+
+263
+
+1/4 X \#2
+
+ATTACHMENTS ()
+
+Geologic Log
+
+Well Construction Diagram Geophysical Log(s)
+
+Sol/Water Chemical Analysis
+
+Other
+
+ATTACH ADDITIONAL INFORMATION, IF IT EXISTS.
+
+DWR 188 REV. 11-97
+
+CERTIFICATION STATEMENT
+
+1, the undersigned, centity that this report is completo and accurate to the best of my knowledge and belief.
+
+NAME GRABOW WELL DRILLING, INC.
+
+(PERSON, FIRM, OR CORPORATION) (TYPED OR PRINTED)
+
+12522-9TH AVE.
+
+ADDRESS
+
+Signed
+
+E
+
+WELL DRIDGERIAUTHORIZED REPRESENTATIVE
+
+HANFORD
+
+CITY
+
+CA
+
+STATE
+
+07/06/04 DATE SIGNED
+
+IF ADDITIONAL SPACE IS NEEDED, USE NEXT CONSECUTIVELY NUMBERED FORM
+
+93230 ZIP
+
+288489 C-57 LICENSE NUMBER

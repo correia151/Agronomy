@@ -1,0 +1,411 @@
+ORIGINAL
+
+File with DWR
+
+Page 1 of 2
+
+Owner's Well No. Hamstra Dairy 3 Date Work Began 4/20/2015
+
+Local Permit Agency Tulare.
+
+Permit No. 15-0582
+
+ORIENTATION ()
+
+DEPTH FROM SURFACE
+
+FL 10 FL
+
+STATE OF CALIFORNIA
+
+OWR USE ONLY
+
+DO NOT FILL IN
+
+WELL COMPLETION REPORT 2052461181
+
+Refer to Instruction Pamphlet
+
+No. e0259253
+
+Ended4/21/2015
+
+Permit Date 4/2/2015
+
+GEOLOGIC LOG
+
+METHOD REVERSE
+
+VERTICAL HORIZONTAL
+
+DRILLING
+
+DESCRIPTION
+
+ANGLE
+
+(SPECIFY)
+
+FLUID WATER/POL
+
+Describe material, grain, sise, color, etc.
+
+0
+
+6 TOP SOIL
+
+6
+
+32 COURSE SAND
+
+32
+
+49 SANDY CLAY
+
+49
+
+63 SAND
+
+63
+
+86 CLAY
+
+86
+
+90 SAND
+
+90
+
+109 SANDY CLAY
+
+109
+
+115 COURSE SAND
+
+115
+
+122 SANDY CLAY
+
+122
+
+129 SAND
+
+129
+
+135 CLAY
+
+135
+
+142 SAND
+
+142
+
+159 SANDY CLAY
+
+159
+
+168 SAND
+
+168
+
+177 SANDY CLAY
+
+177
+
+205 SAND
+
+205
+
+210 CLAY
+
+210
+
+218 SAND
+
+218
+
+224 SANDY CLAY
+
+224
+
+235 SAND
+
+235
+
+245 CLAY
+
+245
+
+250 SAND
+
+T
+
+STATE WELL NOW STATION NO.
+
+LATITUDE
+
+APNITRS/OTHER
+
+WELL OWNED
+
+Address 60' W of Palm Ave & 1600" N of Paige
+
+City
+
+Tulare CA 93274
+
+County TULARE
+
+APN Book 160
+
+Township 20 S
+
+Latitude
+
+DEG. MIN
+
+Page 11 Range24 E
+
+Parcel 8 Section 18
+
+L
+
+SEC.
+
+NORTH
+
+LOCATION SKETCH-
+
+LONGITUDE
+
+250 261 SANDY CLAY
+
+SOUTH
+
+Mister Describe stance of Well from Roads, Belding, Fences, Rivers, etc. and attach a map Use additional paper if necessary. PLEASE BE ACCURATE & COMPLETE.
+
+DEG. MIN
+
+SEC
+
+ACTIVITY ()
+
+NEW WELL
+
+MODIFICATION/REPAIR
+
+Deepen
+
+Other (Specify)
+
+DESTROY (Describe Procedures and Materials\! Under "GEOLOGIC LOG
+
+PLANNED USES (\<)
+
+WATER SUPPLY
+
+Domestic Public
+
+✓rigation
+
+Industrial
+
+MONITORING
+
+TEST WELL
+
+CATHODIC PROTECTION
+
+HEAT EXCHANGE
+
+DIRECT PUSH.
+
+INJECTION
+
+VAPOR EXTRACTION
+
+SPARGING
+
+REMEDIATION
+
+OTHER (SPECIFY)
+
+WATER LEVEL & YIELD OF COMPLETED WELL
+
+261
+
+265 SAND
+
+265
+
+281 CLAY
+
+281
+
+286 SAND
+
+286
+
+295 CLAY
+
+295
+
+305 SAND/GRAVEL
+
+305
+
+317 SANDY CLAY
+
+317
+
+325 SAND
+
+TOTAL DEPTH OF BORING 606
+
+TOTAL DEPTH OF COMPLETED WELL 600
+
+(Feet)
+
+DEPTH TO FIRST WATER
+
+(FL) BELOW SURFACE
+
+DEPTH OF STATIC
+
+WATER LEVEL...
+
+(FL) & DATE MEASURED
+
+ESTIMATED YIELD.
+
+(GPM) & TEST TYPE,
+
+TEST LENGTH.
+
+(Feet)
+
+(Hrs) TOTAL DRAWDOWN
+
+May not be representative of a well's long-term yield
+
+(FL)
+
+DEPTH
+
+CASING (S)
+
+ANNULAR MATERIAL
+
+BORE-
+
+FROM SURFACE HOLE
+
+TYPE (
+
+DEPTH FROM SURFACE
+
+TYPE
+
+DIA. (inches)
+
+MATERIAL/ GRADE
+
+FL.
+
+to
+
+FL
+
+INTERNAL DIAMETER (Inches)
+
+GAUGE OR WALL THICKNESS
+
+SLOT SIZE IF ANY (Inches)
+
+CE- BEN- MENT TONITE FILL
+
+Ft.
+
+to FL
+
+FILTER PACK (TYPE/SIZE)
+
+0
+
+280
+
+28
+
+280
+
+600
+
+28
+
+STEEL STEEL
+
+16
+
+16
+
+1/4
+
+0
+
+50
+
+✓
+
+1/4 090LOUV
+
+50
+
+606
+
+GRAVEL
+
+ATTACHMENTS (2)
+
+Geologic Log
+
+Geophysical Log(s)
+
+Well Construction Diagram
+
+SolWater Chemical Analysis Other
+
+ATTACH ADDITIONAL INFORMATION, IF IT EXISTS.
+
+DWR 188 REV. 11-97
+
+CERTIFICATION STATEMENT
+
+1, the undersigned certify that this report is complete and accurate to the best of my knowledge and beltof NAME Myers Well Drilling inc.
+
+(PERSON FIRM, OR CORPORATION)A(TYPED OR PRAXED) 11745 2nd Ave ADDRESS
+
+Signed
+
+Mortend alend
+
+WELL DRILLER/AUTHORIZED REPRESENTATIVE
+
+Hanford
+
+CA
+
+CITY
+
+STATE
+
+04/24/15 DATE SIGNED
+
+865822
+
+93230
+
+ZIP
+
+C-57 LICENSE NUMBER
+
+IF ADDITIONAL SPACE IS NEEDED, USE NEXT CONSECUTIVELY NUMBERED FORM
