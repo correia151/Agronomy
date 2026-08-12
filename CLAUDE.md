@@ -37,6 +37,15 @@ silage, alfalfa. Soil analysis: Valley Tech lab.
 - Any fertilizer/amendment recommendation before it goes in a deliverable
 - Deleting or restructuring data files
 
+## Database & specialist agents
+- The database is the set of CSVs under data/ — append as records arrive per
+  protocols/data_intake.md. Query: `python scripts/db.py field <ranch> <id>`.
+- Two specialist agents live in .claude/agents/ and must be used for their
+  domains: **soil-scientist** (panel interpretation, salinity/sodicity,
+  amendments) and **agronomist** (yield correlation, N budgets, irrigation
+  incl. lagoon water, variety/rotation/timing, almonds & walnuts). Both are
+  bound by this file and the rulebook; their outputs land in analyses/.
+
 ## Key people
 - Steve Mendonca — Nutrien Porterville agronomist (Hamstra soil samples)
 - Joe & Patrick O'Brien — Valley Tech CCAs (all operations)

@@ -1,0 +1,4 @@
+sample_date,operation,sample_label,ec_dsm,nh4_n_mgl,tkn_mgl,k_mgl,p_mgl,na_mgl,hco3_mgl,notes,source
+,hamstra,"98572 samples 2&3 avg",,229.5,457.5,361,42.65,142.5,,"NH4 credited 100%; organic N at 35%; per ac-in ~70 lb avail N / 98 lb K2O / 22 lb P2O5 / 32 lb Na","Valley Tech 98572"
+,hamstra,"98572 working avg (3 samples)",6.8,360,610,565,,200,3260,"strength swings 3-4x between samples - annual spring test recommended","Valley Tech 98572"
+,hamstra,"98572 strong/bottom sample",10.90,,,,,317,5430,"pit-bottom fraction; sludge sits ABOVE this strength - basis of the V7 sludge diagnosis","Valley Tech 98572"

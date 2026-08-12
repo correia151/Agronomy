@@ -1,0 +1,4 @@
+ranch,field_id,date,water_source,total_ac_in,lagoon_ac_in,method,event_type,notes
+hamstra,9,2026-01,fresh,,,flood,pre_irrigation,"January fresh pre-irrigation - part of the leaching sequence that cut Na 30.2->18.5 %SPe"
+correia,V15,2025-02-26,fresh,,,flood,pre_irrigation,"February fresh-water pre-irrigation (locked decisions: closest thing to what alfalfa was doing)"
+correia,V15,2026-02-09,fresh,,,flood,pre_irrigation,"February fresh-water pre-irrigation"
